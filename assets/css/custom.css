@@ -1,0 +1,20 @@
+h2 {
+    color: #888;
+}
+
+@media (max-width: 767.98px) { 
+    .featured {
+        h2 {
+            font-size: 1rem;
+            
+        }
+    }
+}
+
+@media (min-width: 768px) { 
+    .featured {
+        h2 {
+            font-size: 1.75rem;
+        }
+    }
+}
