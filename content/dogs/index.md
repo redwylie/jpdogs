@@ -1,6 +1,6 @@
 ---
 date: 2023-01-12
-featured_image: darby-2.jpg
+featured_image: darby-1.webp
 title: JP Dogs
 featured: true
 private: true # do not show in list, only as feature
@@ -8,7 +8,7 @@ description: I am really grateful that I have been able to photograph some of th
 resources:
   - src: darby-1.jpg
     title: 2024 - Darby
-  - src: darby-2.jpg
+  - src: darby-1.webp
     title: 2024 - Darby
   - src: eddie-and-scout-1.jpg
     title: 2024 - Scout is in serious negotiations with Eddie
@@ -20,6 +20,8 @@ resources:
     title: 2024 - Orca patiently plays with three fun loving brothers
   - src: wren-and-brick-1.jpg
     title: 2024 - Brick and Wren
+  - src: wren-and-sophie-1.jpg
+    title: 2024 - Wren and Sophie
   - src: millie-1.jpg
     title: 2024 - Millie is taking a little break after some serious play
   - src: unknown-1.jpg
