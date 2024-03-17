@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mark L Wylie / JPDogs</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Mark L Wylie / JPDogs</description>
+    <title>Mark Wylie / JP Dogs</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Mark Wylie / JP Dogs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Candids</title>
-      <link>http://localhost:1313/portraits/candid/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portraits/candid/</guid><description>&lt;no value&gt;</description></item>
+      <link>//localhost:1313/portraits/candid/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/portraits/candid/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title>Sophie</title>
-      <link>http://localhost:1313/sophie/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sophie/</guid><media:content url="http://localhost:1313/sophie/sophie-1_hub5bad2b004176d67fdaa1e41b2772d5c_626285_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+      <link>//localhost:1313/sophie/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/sophie/</guid><media:content url="//localhost:1313/sophie/sophie-1_hub5bad2b004176d67fdaa1e41b2772d5c_626285_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/sophie/sophie-1_hub5bad2b004176d67fdaa1e41b2772d5c_626285_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/sophie/sophie-1_hub5bad2b004176d67fdaa1e41b2772d5c_626285_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
           &lt;p&gt;This is our golden Sophie. She is a JP Dog for sure!&lt;/p&gt;
         </description></item>
     <item>
       <title>Traditional</title>
-      <link>http://localhost:1313/portraits/formal/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portraits/formal/</guid><description>&lt;no value&gt;</description></item>
+      <link>//localhost:1313/portraits/formal/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/portraits/formal/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
