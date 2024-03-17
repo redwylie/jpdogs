@@ -11,19 +11,20 @@
       <title>Candids</title>
       <link>http://localhost:1313/portraits/candid/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portraits/candid/</guid><media:content url="http://localhost:1313/portraits/candid/dog1_hufae34c952400febb65f22753b907e13f_700725_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/portraits/candid/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Sophie</title>
+      <link>http://localhost:1313/sophie/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sophie/</guid><media:content url="http://localhost:1313/sophie/sophie-1_hub5bad2b004176d67fdaa1e41b2772d5c_626285_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/portraits/candid/dog1_hufae34c952400febb65f22753b907e13f_700725_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+          &lt;img src=&quot;http://localhost:1313/sophie/sophie-1_hub5bad2b004176d67fdaa1e41b2772d5c_626285_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;This is our golden Sophie. She is a JP Dog for sure!&lt;/p&gt;
         </description></item>
     <item>
       <title>Traditional</title>
       <link>http://localhost:1313/portraits/formal/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portraits/formal/</guid><media:content url="http://localhost:1313/portraits/formal/dog1_hufae34c952400febb65f22753b907e13f_700725_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/portraits/formal/dog1_hufae34c952400febb65f22753b907e13f_700725_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
+      <guid>http://localhost:1313/portraits/formal/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
