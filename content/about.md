@@ -11,4 +11,3 @@ Thanks for stopping by my modest little site to show some of my work. I have alw
 
 Recently I have been making images of the dogs that live in Jamaica Plain Massachusetts. 
 
-If you would like to contact me: <a href="mailto:redwylie@gmail.com" target="_blank">redwylie at gmail dot com </a>
