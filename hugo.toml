@@ -14,6 +14,10 @@ title = "Mark Wylie / JP Dogs"
   [params.author]
     email = "redwylie@gmail.com"
     name = "Mark Wylie"
+  [params.socialIcons]
+    instagram = "https://www.instagram.com/jamaicaplaindogs"
+    email = "mailto:jamaicaplaindogs@gmail.com"
+    flickr = "https://flickr.com/photos/redwylie/"
 
 [outputs]
   home = ["HTML", "RSS"]
