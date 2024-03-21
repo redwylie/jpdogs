@@ -1,6 +1,6 @@
 ---
 date: 2023-01-12
-featured_image: darby-1.webp
+featured_image: millie-1.jpg
 title: JP Dogs
 menus: "main"
 #sort_by: Name # Exif.Date
