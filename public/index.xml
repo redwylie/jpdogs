@@ -11,6 +11,15 @@
     <copyright>© Mark Wylie</copyright>
     <lastBuildDate>Fri, 31 Mar 2023 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Auggie</title>
+      <link>//localhost:1313/albums/auggie/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/auggie/</guid><media:content url="//localhost:1313/albums/auggie/Auggie-1_hu78569fd6a29f14f1a5020623b8b1eaa3_1738327_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/auggie/Auggie-1_hu78569fd6a29f14f1a5020623b8b1eaa3_1738327_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Augustus</title>
       <link>//localhost:1313/albums/augustus/</link>
       <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
@@ -29,6 +38,15 @@
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
+      <title>Copalli</title>
+      <link>//localhost:1313/albums/copalli/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/copalli/</guid><media:content url="//localhost:1313/albums/copalli/Copalli-1_hu5d1b05b9f0de9ab251cbc1c2c63b4a6e_1418514_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/copalli/Copalli-1_hu5d1b05b9f0de9ab251cbc1c2c63b4a6e_1418514_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Darby</title>
       <link>//localhost:1313/albums/darby/</link>
       <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
@@ -38,12 +56,39 @@
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
+      <title>Eddie</title>
+      <link>//localhost:1313/albums/eddie/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/eddie/</guid><media:content url="//localhost:1313/albums/eddie/Eddie-1_hu1344032aa45ab0d0328cde2590e045bd_1229696_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/eddie/Eddie-1_hu1344032aa45ab0d0328cde2590e045bd_1229696_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Frankie</title>
+      <link>//localhost:1313/albums/frankie/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/frankie/</guid><media:content url="//localhost:1313/albums/frankie/Frankie-1_hu20a5461c397595ad8dd9d1e4f2372c78_1636981_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/frankie/Frankie-1_hu20a5461c397595ad8dd9d1e4f2372c78_1636981_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Grillo</title>
       <link>//localhost:1313/albums/grillo/</link>
       <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
       <guid>//localhost:1313/albums/grillo/</guid><media:content url="//localhost:1313/albums/grillo/Grillo-1_hu4c4e3239da0edf2aa6d3ca100ed90c0f_1945556_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;//localhost:1313/albums/grillo/Grillo-1_hu4c4e3239da0edf2aa6d3ca100ed90c0f_1945556_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Jasper</title>
+      <link>//localhost:1313/albums/jasper/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/jasper/</guid><media:content url="//localhost:1313/albums/jasper/Jasper-1_hua4893893151978174dd7c2426cf4ccd1_1537625_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/jasper/Jasper-1_hua4893893151978174dd7c2426cf4ccd1_1537625_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
@@ -62,6 +107,15 @@
       <guid>//localhost:1313/albums/olive/</guid><media:content url="//localhost:1313/albums/olive/Olive-1_hu450181cd73c36b17299dc2026ffeae73_1602038_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;//localhost:1313/albums/olive/Olive-1_hu450181cd73c36b17299dc2026ffeae73_1602038_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Orca</title>
+      <link>//localhost:1313/albums/orca/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/orca/</guid><media:content url="//localhost:1313/albums/orca/Orca-1_hu5a7d0cdd045ac594a02b4255d4e7bd2d_1428741_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/orca/Orca-1_hu5a7d0cdd045ac594a02b4255d4e7bd2d_1428741_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
@@ -89,6 +143,15 @@
       <guid>//localhost:1313/albums/simba/</guid><media:content url="//localhost:1313/albums/simba/Simba-1_hu0356670d072f7a25a22d2b26ad50da04_1950121_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;//localhost:1313/albums/simba/Simba-1_hu0356670d072f7a25a22d2b26ad50da04_1950121_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Toby</title>
+      <link>//localhost:1313/albums/toby/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/toby/</guid><media:content url="//localhost:1313/albums/toby/Toby-1_huacd0c942faaedd614e1d11915b678c6c_1280591_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/toby/Toby-1_huacd0c942faaedd614e1d11915b678c6c_1280591_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
