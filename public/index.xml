@@ -9,7 +9,88 @@
     <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
     <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
     <copyright>© Mark Wylie</copyright>
-    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Augustus</title>
+      <link>//localhost:1313/albums/augustus/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/augustus/</guid><media:content url="//localhost:1313/albums/augustus/Augustus-4_hu6b5188a49ae2504f8df87bf103258c0b_2071506_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/augustus/Augustus-4_hu6b5188a49ae2504f8df87bf103258c0b_2071506_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Claire</title>
+      <link>//localhost:1313/albums/claire/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/claire/</guid><media:content url="//localhost:1313/albums/claire/Claire-1_hu2e55e9c10661cad9c58b77b3f1b9bac8_1339246_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/claire/Claire-1_hu2e55e9c10661cad9c58b77b3f1b9bac8_1339246_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Darby</title>
+      <link>//localhost:1313/albums/darby/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/darby/</guid><media:content url="//localhost:1313/albums/darby/Darby-1_hu60bcaa00eb20bee234612e51ff174f47_1749779_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/darby/Darby-1_hu60bcaa00eb20bee234612e51ff174f47_1749779_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Grillo</title>
+      <link>//localhost:1313/albums/grillo/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/grillo/</guid><media:content url="//localhost:1313/albums/grillo/Grillo-1_hu4c4e3239da0edf2aa6d3ca100ed90c0f_1945556_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/grillo/Grillo-1_hu4c4e3239da0edf2aa6d3ca100ed90c0f_1945556_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Josie</title>
+      <link>//localhost:1313/albums/josie/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/josie/</guid><media:content url="//localhost:1313/albums/josie/Josie-1_huccac4b330121e8c4333ec6b0995f3d38_1356369_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/josie/Josie-1_huccac4b330121e8c4333ec6b0995f3d38_1356369_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Olive</title>
+      <link>//localhost:1313/albums/olive/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/olive/</guid><media:content url="//localhost:1313/albums/olive/Olive-1_hu450181cd73c36b17299dc2026ffeae73_1602038_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/olive/Olive-1_hu450181cd73c36b17299dc2026ffeae73_1602038_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Rufus</title>
+      <link>//localhost:1313/albums/rufus/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/rufus/</guid><media:content url="//localhost:1313/albums/rufus/Rufus-3_hu59f58f6e9a6aa6c1f77a5f4aacf8b945_1609500_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/rufus/Rufus-3_hu59f58f6e9a6aa6c1f77a5f4aacf8b945_1609500_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Scout</title>
+      <link>//localhost:1313/albums/scout/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/scout/</guid><media:content url="//localhost:1313/albums/scout/Scout-1_hu3f5fdb989ecbece7846f48b89e1bb24d_2049485_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/scout/Scout-1_hu3f5fdb989ecbece7846f48b89e1bb24d_2049485_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Simba</title>
+      <link>//localhost:1313/albums/simba/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/simba/</guid><media:content url="//localhost:1313/albums/simba/Simba-1_hu0356670d072f7a25a22d2b26ad50da04_1950121_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/simba/Simba-1_hu0356670d072f7a25a22d2b26ad50da04_1950121_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
     <item>
       <title>Candids</title>
       <link>//localhost:1313/portraits/candid/</link>
@@ -19,18 +100,18 @@
       <title>Outakes</title>
       <link>//localhost:1313/outtakes/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/outtakes/</guid><media:content url="//localhost:1313/outtakes/outtakes-017_hu0480706c3a1c482c84ba6ad7ccf1fa0a_899667_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <guid>//localhost:1313/outtakes/</guid><media:content url="//localhost:1313/outtakes/outtakes-017_hu0480706c3a1c482c84ba6ad7ccf1fa0a_899667_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/outtakes/outtakes-017_hu0480706c3a1c482c84ba6ad7ccf1fa0a_899667_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/outtakes/outtakes-017_hu0480706c3a1c482c84ba6ad7ccf1fa0a_899667_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;Dogs can move so fast, and when you are crouching down at their level, or trying to both throw the ball and take the photo, fun things can happen.&lt;/p&gt;
         </description></item>
     <item>
       <title>Sophie</title>
       <link>//localhost:1313/sophie/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/sophie/</guid><media:content url="//localhost:1313/sophie/sophie-1_hub5bad2b004176d67fdaa1e41b2772d5c_626285_900x600_fill_q75_catmullrom_smart1.jpg" type="image/jpeg"/>
+      <guid>//localhost:1313/sophie/</guid><media:content url="//localhost:1313/sophie/sophie-1_hub5bad2b004176d67fdaa1e41b2772d5c_626285_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/sophie/sophie-1_hub5bad2b004176d67fdaa1e41b2772d5c_626285_900x600_fill_q75_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/sophie/sophie-1_hub5bad2b004176d67fdaa1e41b2772d5c_626285_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;This is our golden Sophie. She is a JP Dog for sure!&lt;/p&gt;
         </description></item>
     <item>

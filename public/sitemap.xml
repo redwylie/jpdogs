@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/albums/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2023-01-14T00:00:00-05:00</lastmod>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/augustus/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/claire/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/darby/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/grillo/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/josie/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/olive/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/rufus/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/scout/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/simba/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/portraits/candid/</loc>
     <lastmod>2023-01-12T00:00:00-05:00</lastmod>
