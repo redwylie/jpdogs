@@ -14,6 +14,9 @@
     <loc>//localhost:1313/albums/augustus/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/albums/bud/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/claire/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
@@ -38,10 +41,19 @@
     <loc>//localhost:1313/albums/josie/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/albums/lola/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/oakley/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/olive/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/orca/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/pearl/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/rufus/</loc>
