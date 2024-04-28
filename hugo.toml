@@ -5,7 +5,7 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "America/New_York"
 timeout = "120s"
-title = "Mark Wylie / JP Dogs"
+title = "JP Dogs"
 
 [params]
   defaultTheme = "dark"
