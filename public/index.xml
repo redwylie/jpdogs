@@ -1,15 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mark Wylie / JP Dogs</title>
+    <title>JP Dogs</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on Mark Wylie / JP Dogs</description>
+    <description>Recent content on JP Dogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
     <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
     <copyright>© Mark Wylie</copyright>
-    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Luna</title>
+      <link>//localhost:1313/albums/luna/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/luna/</guid><media:content url="//localhost:1313/albums/luna/Luna-Two-6_hu0cca444fd573052a323f0a7020cc6f08_1209128_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/luna/Luna-Two-6_hu0cca444fd573052a323f0a7020cc6f08_1209128_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Riley</title>
+      <link>//localhost:1313/albums/riley/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/riley/</guid><media:content url="//localhost:1313/albums/riley/Riley-1_huffda8ff4614f48ba953fb26625f7f7db_1181234_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/riley/Riley-1_huffda8ff4614f48ba953fb26625f7f7db_1181234_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Roman</title>
+      <link>//localhost:1313/albums/roman/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/roman/</guid><media:content url="//localhost:1313/albums/roman/Roman-1_hu782e4f7b048466fbf39b7fe44e1f1f4e_1366359_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/roman/Roman-1_hu782e4f7b048466fbf39b7fe44e1f1f4e_1366359_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Zinn</title>
+      <link>//localhost:1313/albums/zinn/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/zinn/</guid><media:content url="//localhost:1313/albums/zinn/Zinn-1_hue6535d33ac4d60fc8d08ed2b218e9a62_1846755_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/zinn/Zinn-1_hue6535d33ac4d60fc8d08ed2b218e9a62_1846755_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Hazel</title>
+      <link>//localhost:1313/albums/hazel/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/hazel/</guid><media:content url="//localhost:1313/albums/hazel/Hazel-1_hu52a2be55d8cf9e4668f3148fad2203af_1304737_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/hazel/Hazel-1_hu52a2be55d8cf9e4668f3148fad2203af_1304737_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Ozzie</title>
+      <link>//localhost:1313/albums/ozzie/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/ozzie/</guid><media:content url="//localhost:1313/albums/ozzie/Ozzie-1_hud83eb660376f622081be05c8f471701c_1101151_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/ozzie/Ozzie-1_hud83eb660376f622081be05c8f471701c_1101151_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Oakley</title>
+      <link>//localhost:1313/albums/oakley/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/oakley/</guid><media:content url="//localhost:1313/albums/oakley/Oakley-1_hu8278c54dedca5ef3a62aa5c9f32bb709_1067091_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/oakley/Oakley-1_hu8278c54dedca5ef3a62aa5c9f32bb709_1067091_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
     <item>
       <title>Auggie</title>
       <link>//localhost:1313/albums/auggie/</link>
@@ -116,15 +179,6 @@
       <guid>//localhost:1313/albums/lola/</guid><media:content url="//localhost:1313/albums/lola/Lola-2_hu7a30bb64cbecec04f603bb90d0a5bf47_1287924_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;//localhost:1313/albums/lola/Lola-2_hu7a30bb64cbecec04f603bb90d0a5bf47_1287924_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
-          &lt;p&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Oakley</title>
-      <link>//localhost:1313/albums/oakley/</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/albums/oakley/</guid><media:content url="//localhost:1313/albums/oakley/Oakley-1_hu8278c54dedca5ef3a62aa5c9f32bb709_1067091_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;//localhost:1313/albums/oakley/Oakley-1_hu8278c54dedca5ef3a62aa5c9f32bb709_1067091_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
