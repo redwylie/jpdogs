@@ -9,7 +9,52 @@
     <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
     <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
     <copyright>© Mark Wylie</copyright>
-    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xena</title>
+      <link>//localhost:1313/albums/xena/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/xena/</guid><media:content url="//localhost:1313/albums/xena/Xena_hu2f8bd76bce6fb9017dd14c63adb4b4a7_1180904_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/xena/Xena_hu2f8bd76bce6fb9017dd14c63adb4b4a7_1180904_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Beckham</title>
+      <link>//localhost:1313/albums/beckham/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/beckham/</guid><media:content url="//localhost:1313/albums/beckham/beckham-1_hufa086c40eb17adf858194e07e638fbb5_1396429_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/beckham/beckham-1_hufa086c40eb17adf858194e07e638fbb5_1396429_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Geno</title>
+      <link>//localhost:1313/albums/geno/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/geno/</guid><media:content url="//localhost:1313/albums/geno/Geno-1_hu115899b93780acbd4396411ecd5be721_1161234_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/geno/Geno-1_hu115899b93780acbd4396411ecd5be721_1161234_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Georgia</title>
+      <link>//localhost:1313/albums/georgia/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/georgia/</guid><media:content url="//localhost:1313/albums/georgia/Gerogia-2_hub271b8dd49a963edde7eefd99fb8973b_1769731_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/georgia/Gerogia-2_hub271b8dd49a963edde7eefd99fb8973b_1769731_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Stevie</title>
+      <link>//localhost:1313/albums/stevie/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/stevie/</guid><media:content url="//localhost:1313/albums/stevie/stevie-1_hub6359aa8ffd00472318617abe726ed13_1693206_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/stevie/stevie-1_hub6359aa8ffd00472318617abe726ed13_1693206_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
     <item>
       <title>Luna</title>
       <link>//localhost:1313/albums/luna/</link>
@@ -17,6 +62,15 @@
       <guid>//localhost:1313/albums/luna/</guid><media:content url="//localhost:1313/albums/luna/Luna-Two-6_hu0cca444fd573052a323f0a7020cc6f08_1209128_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;//localhost:1313/albums/luna/Luna-Two-6_hu0cca444fd573052a323f0a7020cc6f08_1209128_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nomi</title>
+      <link>//localhost:1313/albums/nomi/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/nomi/</guid><media:content url="//localhost:1313/albums/nomi/nomi-1_hu84a6c2cc962fe920542fb72e466ec972_813159_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/nomi/nomi-1_hu84a6c2cc962fe920542fb72e466ec972_813159_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
