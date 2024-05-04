@@ -3,12 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/albums/</loc>
-    <lastmod>2024-04-25T00:00:00-04:00</lastmod>
+    <lastmod>2024-05-03T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-04-25T00:00:00-04:00</lastmod>
+    <lastmod>2024-05-03T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/xena/</loc>
+    <lastmod>2024-05-03T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/beckham/</loc>
+    <lastmod>2024-05-02T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/geno/</loc>
+    <lastmod>2024-05-02T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/georgia/</loc>
+    <lastmod>2024-05-02T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/stevie/</loc>
+    <lastmod>2024-05-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/luna/</loc>
+    <lastmod>2024-04-25T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/nomi/</loc>
     <lastmod>2024-04-25T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/riley/</loc>
