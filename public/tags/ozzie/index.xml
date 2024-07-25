@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ozzie on JP Dogs</title>
+    <link>//localhost:1313/tags/ozzie/</link>
+    <description>Recent content in Ozzie on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/ozzie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ozzie</title>
+      <link>//localhost:1313/albums/ozzie/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/ozzie/</guid><media:content url="//localhost:1313/albums/ozzie/Ozzie-1_hud83eb660376f622081be05c8f471701c_1101151_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/ozzie/Ozzie-1_hud83eb660376f622081be05c8f471701c_1101151_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

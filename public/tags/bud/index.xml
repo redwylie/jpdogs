@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bud on JP Dogs</title>
+    <link>//localhost:1313/tags/bud/</link>
+    <description>Recent content in Bud on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/bud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bud</title>
+      <link>//localhost:1313/albums/bud/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/bud/</guid><media:content url="//localhost:1313/albums/bud/Bud-1_hu433458dbba8d288d698cfca7a68e0e5b_1629138_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/bud/Bud-1_hu433458dbba8d288d698cfca7a68e0e5b_1629138_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

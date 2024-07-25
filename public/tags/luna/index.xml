@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luna on JP Dogs</title>
+    <link>//localhost:1313/tags/luna/</link>
+    <description>Recent content in Luna on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/luna/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Luna</title>
+      <link>//localhost:1313/albums/luna-t/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/luna-t/</guid><media:content url="//localhost:1313/albums/luna-t/Luna-20240502-1_hu4e4ec935f082f26260e0a7119ab2728b_1067244_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/luna-t/Luna-20240502-1_hu4e4ec935f082f26260e0a7119ab2728b_1067244_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Luna</title>
+      <link>//localhost:1313/albums/luna/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/luna/</guid><media:content url="//localhost:1313/albums/luna/Luna-Two-6_hu0cca444fd573052a323f0a7020cc6f08_1209128_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/luna/Luna-Two-6_hu0cca444fd573052a323f0a7020cc6f08_1209128_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
