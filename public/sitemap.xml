@@ -5,120 +5,221 @@
     <loc>//localhost:1313/albums/</loc>
     <lastmod>2024-05-03T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/sophie/</loc>
+  </url><url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2024-05-03T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-05-03T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/xena/</loc>
     <lastmod>2024-05-03T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/xena/</loc>
     <lastmod>2024-05-03T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/beckham/</loc>
+    <lastmod>2024-05-02T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/beckham/</loc>
+    <lastmod>2024-05-02T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/geno/</loc>
     <lastmod>2024-05-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/geno/</loc>
     <lastmod>2024-05-02T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/georgia/</loc>
+    <lastmod>2024-05-02T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/georgia/</loc>
+    <lastmod>2024-05-02T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/stevie/</loc>
     <lastmod>2024-05-02T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/stevie/</loc>
     <lastmod>2024-05-02T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/luna/</loc>
+    <lastmod>2024-04-25T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/luna-t/</loc>
+    <lastmod>2024-04-25T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/luna/</loc>
+    <lastmod>2024-04-25T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/nomi/</loc>
     <lastmod>2024-04-25T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/nomi/</loc>
     <lastmod>2024-04-25T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/riley/</loc>
+    <lastmod>2024-04-25T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/riley/</loc>
+    <lastmod>2024-04-25T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/roman/</loc>
     <lastmod>2024-04-25T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/roman/</loc>
     <lastmod>2024-04-25T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/zinn/</loc>
+    <lastmod>2024-04-25T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/zinn/</loc>
     <lastmod>2024-04-25T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/hazel/</loc>
+    <lastmod>2024-04-23T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/hazel/</loc>
+    <lastmod>2024-04-23T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/ozzie/</loc>
     <lastmod>2024-04-23T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/ozzie/</loc>
     <lastmod>2024-04-23T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/oakley/</loc>
+    <lastmod>2023-04-25T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/oakley/</loc>
     <lastmod>2023-04-25T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/auggie/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/auggie/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/augustus/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/augustus/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/bud/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/bud/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/claire/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/claire/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/copalli/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/copalli/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/darby/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/darby/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/eddie/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/eddie/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/frankie/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/frankie/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/grillo/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/grillo/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/jasper/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/jasper/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/josie/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/josie/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/lola/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/lola/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/olive/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/olive/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/orca/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/orca/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/peanut/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/peanut/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/pearl/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/pearl/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/rufus/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/rufus/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/scout/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/scout/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/simba/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/simba/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/toby/</loc>
+    <lastmod>2023-03-31T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/toby/</loc>
     <lastmod>2023-03-31T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/portraits/candid/</loc>
-    <lastmod>2023-01-12T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/outtakes/</loc>
-    <lastmod>2023-01-12T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/portraits/</loc>
-    <lastmod>2023-01-12T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/sophie/</loc>
-    <lastmod>2023-01-12T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/portraits/formal/</loc>
-    <lastmod>2023-01-12T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/series/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/sophie/</loc>
   </url>
 </urlset>

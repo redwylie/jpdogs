@@ -6,4 +6,27 @@
       {{ partial "album-card.html" . }}
     {{ end }}
   </section>
+
+  <section class="tags-home">
+    
+      <h2>By Name:</h2>
+      <br/>
+      {{ range .Site.Taxonomies.tags }}
+       <li class="tag-list"> <a href="{{ .Page.Permalink }}" class="tag"> {{ .Page.Title }}</a></li>
+      {{ end }}
+
+      <!-- <h2>Pages</h2>
+      {{ range .Site.RegularPages.ByTitle }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> /
+      {{ end }} -->
+    
+      <!-- <br/><br/> -->
+<!-- 
+     <h2>Beta: All Albums</h2>
+      {{range where .Site.RegularPages.ByTitle "Section" "albums"}}
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a> /
+      {{ end }} -->
+
+  </section>
+ 
 {{ end }}

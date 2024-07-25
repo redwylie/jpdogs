@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zinn on JP Dogs</title>
+    <link>//localhost:1313/tags/zinn/</link>
+    <description>Recent content in Zinn on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Thu, 25 Apr 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/zinn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zinn</title>
+      <link>//localhost:1313/albums/zinn/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/zinn/</guid><media:content url="//localhost:1313/albums/zinn/Zinn-1_hue6535d33ac4d60fc8d08ed2b218e9a62_1846755_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/zinn/Zinn-1_hue6535d33ac4d60fc8d08ed2b218e9a62_1846755_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

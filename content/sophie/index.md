@@ -1,9 +1,10 @@
 ---
-date: 2023-01-12
-featured_image: sophie-1.jpg
+description: Sophie
+featured_image: 
+keywords: [Animals, Photos, Cats, Dogs]
 title: Sophie
-description: This is our golden Sophie. She is a JP Dog for sure!
-resources:
-  - src: sophie-1.jpg
-    title: 2024 - Sophie
+weight: 1
+menus: "main"
+# list pages require at least one image to be displayed.
+tags: ["sophie"]
 ---

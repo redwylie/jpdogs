@@ -11,6 +11,15 @@
     <copyright>© Mark Wylie</copyright>
     <lastBuildDate>Fri, 03 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Sophie</title>
+      <link>//localhost:1313/sophie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/sophie/</guid><media:content url="//localhost:1313/sophie/Sophie-20240416-1_hu274090381d44567846421c5670f1e525_840087_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/sophie/Sophie-20240416-1_hu274090381d44567846421c5670f1e525_840087_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;Sophie&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Xena</title>
       <link>//localhost:1313/albums/xena/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
@@ -53,6 +62,15 @@
       <guid>//localhost:1313/albums/stevie/</guid><media:content url="//localhost:1313/albums/stevie/stevie-1_hub6359aa8ffd00472318617abe726ed13_1693206_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;//localhost:1313/albums/stevie/stevie-1_hub6359aa8ffd00472318617abe726ed13_1693206_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Luna</title>
+      <link>//localhost:1313/albums/luna-t/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/luna-t/</guid><media:content url="//localhost:1313/albums/luna-t/Luna-20240502-1_hu4e4ec935f082f26260e0a7119ab2728b_1067244_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/luna-t/Luna-20240502-1_hu4e4ec935f082f26260e0a7119ab2728b_1067244_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
@@ -254,6 +272,15 @@
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
+      <title>Peanut</title>
+      <link>//localhost:1313/albums/peanut/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/peanut/</guid><media:content url="//localhost:1313/albums/peanut/Peanut-20240622-1_hu8429962d0f91f5f56dedf40be0f41d1c_1184877_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/peanut/Peanut-20240622-1_hu8429962d0f91f5f56dedf40be0f41d1c_1184877_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Pearl</title>
       <link>//localhost:1313/albums/pearl/</link>
       <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
@@ -298,33 +325,5 @@
           &lt;img src=&quot;//localhost:1313/albums/toby/Toby-1_huacd0c942faaedd614e1d11915b678c6c_1280591_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
-    <item>
-      <title>Candids</title>
-      <link>//localhost:1313/portraits/candid/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/portraits/candid/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title>Outakes</title>
-      <link>//localhost:1313/outtakes/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/outtakes/</guid><media:content url="//localhost:1313/outtakes/outtakes-017_hu0480706c3a1c482c84ba6ad7ccf1fa0a_899667_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;//localhost:1313/outtakes/outtakes-017_hu0480706c3a1c482c84ba6ad7ccf1fa0a_899667_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
-          &lt;p&gt;Dogs can move so fast, and when you are crouching down at their level, or trying to both throw the ball and take the photo, fun things can happen.&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Sophie</title>
-      <link>//localhost:1313/sophie/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/sophie/</guid><media:content url="//localhost:1313/sophie/sophie-1_hub5bad2b004176d67fdaa1e41b2772d5c_626285_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;//localhost:1313/sophie/sophie-1_hub5bad2b004176d67fdaa1e41b2772d5c_626285_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
-          &lt;p&gt;This is our golden Sophie. She is a JP Dog for sure!&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Traditional</title>
-      <link>//localhost:1313/portraits/formal/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/portraits/formal/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

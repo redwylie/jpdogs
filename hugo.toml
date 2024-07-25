@@ -1,6 +1,5 @@
 copyright = "© Mark Wylie"
 defaultContentLanguage = "en"
-disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "America/New_York"
@@ -37,8 +36,11 @@ title = "JP Dogs"
   [[module.imports]]
     path = "github.com/nicokaiser/hugo-theme-gallery/v4"
 
-
-
 [services]
   [services.rss]
     limit = 100
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"

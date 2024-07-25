@@ -3,9 +3,7 @@
     {{ $images := slice }}
     {{ range $image :=  .Resources.ByType "image" }}
       {{ $title := "" }}
-      {{ $dateCaptured := "" }}
       {{ with $image.Exif }}
-        {{ $dateCaptured = $image.Exif.Date }}
         {{ with .Tags.ImageDescription }}
           {{/* Title from EXIF ImageDescription */}}
           {{ $title = . }}
@@ -18,12 +16,11 @@
       {{ $images = $images | append (dict
         "Name" $image.Name
         "Title" $title
-        "Date" $dateCaptured
         "image" $image
         )
       }}
     {{ end }}
-    {{ range sort $images (.Params.sort_by | default "Date") (.Params.sort_order | default "desc") }}
+    {{ range sort $images (.Params.sort_by | default "Name") (.Params.sort_order | default "asc") }}
       {{ $image := .image }}
       {{ $thumbnail := $image.Filter (slice images.AutoOrient (images.Process "fit 600x600")) }}
       {{ $full := $image.Filter (slice images.AutoOrient (images.Process "fit 1600x1600")) }}
