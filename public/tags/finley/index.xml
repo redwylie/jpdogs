@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finley on JP Dogs</title>
+    <link>//localhost:1313/tags/finley/</link>
+    <description>Recent content in Finley on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/finley/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finley</title>
+      <link>//localhost:1313/albums/finley-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/finley-2/</guid><media:content url="//localhost:1313/albums/finley-2/Finley-20240517-1_hu0f64821ee96e0127cf76251874476871_2003240_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/finley-2/Finley-20240517-1_hu0f64821ee96e0127cf76251874476871_2003240_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Finley</title>
+      <link>//localhost:1313/albums/finley/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/finley/</guid><media:content url="//localhost:1313/albums/finley/Finley-20240402-1_huee6b02e7d66781627907c6ced882f48c_1298815_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/finley/Finley-20240402-1_huee6b02e7d66781627907c6ced882f48c_1298815_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

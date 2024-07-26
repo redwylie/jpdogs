@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elbow on JP Dogs</title>
+    <link>//localhost:1313/tags/elbow/</link>
+    <description>Recent content in Elbow on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/elbow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elbow</title>
+      <link>//localhost:1313/albums/elbow/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/elbow/</guid><media:content url="//localhost:1313/albums/elbow/Elbow-20240528-1_hu935ea5a556d1a516506e61d62d240cfd_1272502_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/elbow/Elbow-20240528-1_hu935ea5a556d1a516506e61d62d240cfd_1272502_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
