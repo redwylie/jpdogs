@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dottie on JP Dogs</title>
+    <link>//localhost:1313/tags/dottie/</link>
+    <description>Recent content in Dottie on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/dottie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dottie</title>
+      <link>//localhost:1313/albums/dottie-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/dottie-1/</guid><media:content url="//localhost:1313/albums/dottie-1/Dottie,%20Finley,%20Simba-20240530-2_hu052ad6fb5cfec80619d1d4b42eb670ca_2075163_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/dottie-1/Dottie,%20Finley,%20Simba-20240530-2_hu052ad6fb5cfec80619d1d4b42eb670ca_2075163_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Dottie</title>
+      <link>//localhost:1313/albums/dottie-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/dottie-2/</guid><media:content url="//localhost:1313/albums/dottie-2/Dottie-20240720-1_hub8a8e25aaf82da2dcfe3dd4debdcd521_1229413_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/dottie-2/Dottie-20240720-1_hub8a8e25aaf82da2dcfe3dd4debdcd521_1229413_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
