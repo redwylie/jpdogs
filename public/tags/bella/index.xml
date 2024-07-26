@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bella on JP Dogs</title>
+    <link>//localhost:1313/tags/bella/</link>
+    <description>Recent content in Bella on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/bella/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bella</title>
+      <link>//localhost:1313/albums/bella-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/bella-2/</guid><media:content url="//localhost:1313/albums/bella-2/Bella-20240602-1_hu2c3be5ddd56a3c84ed955dc3e6093a80_846856_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/bella-2/Bella-20240602-1_hu2c3be5ddd56a3c84ed955dc3e6093a80_846856_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bella</title>
+      <link>//localhost:1313/albums/bella-3/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/bella-3/</guid><media:content url="//localhost:1313/albums/bella-3/Bella-20240719-1_hud77cbc20001c1f218c4bf4cfa66a5068_730498_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/bella-3/Bella-20240719-1_hud77cbc20001c1f218c4bf4cfa66a5068_730498_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bella</title>
+      <link>//localhost:1313/albums/bella/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/bella/</guid><media:content url="//localhost:1313/albums/bella/Bella-20240424-1_hu86c86879497c8228e8409deb0089bacc_955031_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/bella/Bella-20240424-1_hu86c86879497c8228e8409deb0089bacc_955031_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
