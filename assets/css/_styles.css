@@ -165,7 +165,7 @@ section.galleries
   }
 
   @media (min-width: 1024px) {
-    grid-template-columns: repeat(2, minmax(0, 1fr));  //CHANGE THIS TO ALTER COLUMNS
+    grid-template-columns: repeat(3, minmax(0, 1fr));  
   }
 }
 
