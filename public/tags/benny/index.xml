@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benny on JP Dogs</title>
+    <link>//localhost:1313/tags/benny/</link>
+    <description>Recent content in Benny on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/benny/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Benny</title>
+      <link>//localhost:1313/albums/benny-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/benny-1/</guid><media:content url="//localhost:1313/albums/benny-1/Benny-20240424-1_hufbd0908368b3c3850eea97a2283d61a6_801933_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/benny-1/Benny-20240424-1_hufbd0908368b3c3850eea97a2283d61a6_801933_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Benny</title>
+      <link>//localhost:1313/albums/benny-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/benny-2/</guid><media:content url="//localhost:1313/albums/benny-2/Benny-20240503-1_hub0cc475c4f8c52b4688d7748bb1b4f40_2172709_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/benny-2/Benny-20240503-1_hub0cc475c4f8c52b4688d7748bb1b4f40_2172709_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Benny</title>
+      <link>//localhost:1313/albums/benny-3/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/benny-3/</guid><media:content url="//localhost:1313/albums/benny-3/Benny-20240519-1_hu2cbf5ca84b9a8f4668b11da2427913ce_952748_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/benny-3/Benny-20240519-1_hu2cbf5ca84b9a8f4668b11da2427913ce_952748_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

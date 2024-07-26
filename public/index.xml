@@ -9,7 +9,7 @@
     <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
     <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
     <copyright>© Mark Wylie</copyright>
-    <lastBuildDate>Fri, 03 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sophie</title>
       <link>//localhost:1313/sophie/</link>
@@ -18,6 +18,42 @@
         <description>
           &lt;img src=&quot;//localhost:1313/sophie/Sophie-20240416-1_hu274090381d44567846421c5670f1e525_840087_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;Sophie&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Albert</title>
+      <link>//localhost:1313/albums/albert/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/albert/</guid><media:content url="//localhost:1313/albums/albert/Albert-20240723-1_hu122d9a2e0f2646da74100c509a5d53c4_1391099_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/albert/Albert-20240723-1_hu122d9a2e0f2646da74100c509a5d53c4_1391099_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Alfie</title>
+      <link>//localhost:1313/albums/alfie/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/alfie/</guid><media:content url="//localhost:1313/albums/alfie/Alfie-20240529-1_hu375780740319091c4f3d6fc9d17cc701_949173_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/alfie/Alfie-20240529-1_hu375780740319091c4f3d6fc9d17cc701_949173_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Aloo</title>
+      <link>//localhost:1313/albums/alo/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/alo/</guid><media:content url="//localhost:1313/albums/alo/Aloo-20240327-1_hubd59fc9686f9fa469c46c1ffc9e0db20_1706274_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/alo/Aloo-20240327-1_hubd59fc9686f9fa469c46c1ffc9e0db20_1706274_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Addy</title>
+      <link>//localhost:1313/albums/addy/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/addy/</guid><media:content url="//localhost:1313/albums/addy/Addy-20240505-1_hu8d5b3791234f566d1897a938e3933195_1256440_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/addy/Addy-20240505-1_hu8d5b3791234f566d1897a938e3933195_1256440_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Xena</title>
@@ -32,9 +68,9 @@
       <title>Beckham</title>
       <link>//localhost:1313/albums/beckham/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/albums/beckham/</guid><media:content url="//localhost:1313/albums/beckham/beckham-1_hufa086c40eb17adf858194e07e638fbb5_1396429_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+      <guid>//localhost:1313/albums/beckham/</guid><media:content url="//localhost:1313/albums/beckham/Beckham-20240313-1_huddb2c0d12687a79cce4d206eed2a15da_2982692_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/albums/beckham/beckham-1_hufa086c40eb17adf858194e07e638fbb5_1396429_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/albums/beckham/Beckham-20240313-1_huddb2c0d12687a79cce4d206eed2a15da_2982692_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
@@ -134,6 +170,321 @@
       <guid>//localhost:1313/albums/ozzie/</guid><media:content url="//localhost:1313/albums/ozzie/Ozzie-1_hud83eb660376f622081be05c8f471701c_1101151_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;//localhost:1313/albums/ozzie/Ozzie-1_hud83eb660376f622081be05c8f471701c_1101151_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Anka</title>
+      <link>//localhost:1313/albums/anka/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/anka/</guid><media:content url="//localhost:1313/albums/anka/Anka-20240623-1_huf721f6dd65da525f19225073733b2cf6_851724_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/anka/Anka-20240623-1_huf721f6dd65da525f19225073733b2cf6_851724_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Anubis</title>
+      <link>//localhost:1313/albums/anubis/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/anubis/</guid><media:content url="//localhost:1313/albums/anubis/Anubis-20240622-1_hu6f48c9e59352ff156177a315e5379ffb_808018_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/anubis/Anubis-20240622-1_hu6f48c9e59352ff156177a315e5379ffb_808018_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Arlo</title>
+      <link>//localhost:1313/albums/arlo-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/arlo-2/</guid><media:content url="//localhost:1313/albums/arlo-2/Arlo-20240608-1_hue5a4f482216397a4acb988a155f8bb59_955354_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/arlo-2/Arlo-20240608-1_hue5a4f482216397a4acb988a155f8bb59_955354_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Arlo</title>
+      <link>//localhost:1313/albums/arlo-3/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/arlo-3/</guid><media:content url="//localhost:1313/albums/arlo-3/Arlo-20240708-1_hu2bcb0762f6ee1ffe1dbed93af4229cfc_1146195_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/arlo-3/Arlo-20240708-1_hu2bcb0762f6ee1ffe1dbed93af4229cfc_1146195_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Arlo</title>
+      <link>//localhost:1313/albums/arlo/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/arlo/</guid><media:content url="//localhost:1313/albums/arlo/Arlo-20240508-1_huf7108528b80e4f26c0dba1eee288e080_1344559_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/arlo/Arlo-20240508-1_huf7108528b80e4f26c0dba1eee288e080_1344559_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Arnie</title>
+      <link>//localhost:1313/albums/arnie/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/arnie/</guid><media:content url="//localhost:1313/albums/arnie/Arnie-20240613-1_hu3c2baedb88b99c8b582132b39969ee42_1524867_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/arnie/Arnie-20240613-1_hu3c2baedb88b99c8b582132b39969ee42_1524867_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Atlas</title>
+      <link>//localhost:1313/albums/atlas-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/atlas-2/</guid><media:content url="//localhost:1313/albums/atlas-2/Atlas-20240610-1_hu595eace7f3f0da9fb91d8f60f0b200ba_1831136_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/atlas-2/Atlas-20240610-1_hu595eace7f3f0da9fb91d8f60f0b200ba_1831136_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Atlas</title>
+      <link>//localhost:1313/albums/atlas-3/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/atlas-3/</guid><media:content url="//localhost:1313/albums/atlas-3/Atlas-20240621-1_hu3ac04400f21c3c79448a521a52646d91_2030136_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/atlas-3/Atlas-20240621-1_hu3ac04400f21c3c79448a521a52646d91_2030136_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Atlas</title>
+      <link>//localhost:1313/albums/atlas/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/atlas/</guid><media:content url="//localhost:1313/albums/atlas/Atlas-20240610-1_hu71d2dd797ace2d35c4d3763694f29aac_1562127_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/atlas/Atlas-20240610-1_hu71d2dd797ace2d35c4d3763694f29aac_1562127_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Aurora</title>
+      <link>//localhost:1313/albums/aurora/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/aurora/</guid><media:content url="//localhost:1313/albums/aurora/Aurora-20240508-1_hu664763841dccf32a7bb7c2ef484cf791_1546905_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/aurora/Aurora-20240508-1_hu664763841dccf32a7bb7c2ef484cf791_1546905_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Ava</title>
+      <link>//localhost:1313/albums/ava/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/ava/</guid><media:content url="//localhost:1313/albums/ava/Ava-20240503-1_hudd0dd1e2d304ec882ef7250ee1337694_2079848_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/ava/Ava-20240503-1_hudd0dd1e2d304ec882ef7250ee1337694_2079848_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Avery</title>
+      <link>//localhost:1313/albums/avery-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/avery-2/</guid><media:content url="//localhost:1313/albums/avery-2/Avery-20240620-1_hu6bd809a235f988195337e24e7681aa3d_1226892_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/avery-2/Avery-20240620-1_hu6bd809a235f988195337e24e7681aa3d_1226892_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Avery</title>
+      <link>//localhost:1313/albums/avery/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/avery/</guid><media:content url="//localhost:1313/albums/avery/Avery-20240606-1_huc894444503580b7077d656ee75e64b9c_1506813_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/avery/Avery-20240606-1_huc894444503580b7077d656ee75e64b9c_1506813_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Avi</title>
+      <link>//localhost:1313/albums/avi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/avi/</guid><media:content url="//localhost:1313/albums/avi/Avi-20240511-1_hu5f0223473ddab485dd2aa25c854c9f84_1533894_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/avi/Avi-20240511-1_hu5f0223473ddab485dd2aa25c854c9f84_1533894_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Azula</title>
+      <link>//localhost:1313/albums/azula/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/azula/</guid><media:content url="//localhost:1313/albums/azula/Azula-20240523-1_hu1e8684cb78a54569d24698fd9b6cda23_1309935_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/azula/Azula-20240523-1_hu1e8684cb78a54569d24698fd9b6cda23_1309935_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Banjo</title>
+      <link>//localhost:1313/albums/banjo/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/banjo/</guid><media:content url="//localhost:1313/albums/banjo/Banjo-20240521-1_hu2c8325a043acb3b971d4e5505835b061_1751835_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/banjo/Banjo-20240521-1_hu2c8325a043acb3b971d4e5505835b061_1751835_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Barb</title>
+      <link>//localhost:1313/albums/barb/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/barb/</guid><media:content url="//localhost:1313/albums/barb/Barb-20240410-1_huc1282ab2b0c5e8cdd6214fa32ab60d4b_1032409_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/barb/Barb-20240410-1_huc1282ab2b0c5e8cdd6214fa32ab60d4b_1032409_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Basil</title>
+      <link>//localhost:1313/albums/basil/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/basil/</guid><media:content url="//localhost:1313/albums/basil/Basil-20240502-1_huc10344ae6df2e7a382878127ed0a5773_1776764_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/basil/Basil-20240502-1_huc10344ae6df2e7a382878127ed0a5773_1776764_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Beans</title>
+      <link>//localhost:1313/albums/beans/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/beans/</guid><media:content url="//localhost:1313/albums/beans/Beans-20240529-1_huea3ef421bfc5bd1e1c700a81491e1f89_1032322_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/beans/Beans-20240529-1_huea3ef421bfc5bd1e1c700a81491e1f89_1032322_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bear</title>
+      <link>//localhost:1313/albums/bear/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/bear/</guid><media:content url="//localhost:1313/albums/bear/Bear-20240509-1_hu971ac6a38def5e294156811417f38c75_1309985_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/bear/Bear-20240509-1_hu971ac6a38def5e294156811417f38c75_1309985_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bearpaw</title>
+      <link>//localhost:1313/albums/bearpaw/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/bearpaw/</guid><media:content url="//localhost:1313/albums/bearpaw/Bearpaw-20240502-1_hubbcd73b5ee830e9384edb9621c1b9009_1797048_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/bearpaw/Bearpaw-20240502-1_hubbcd73b5ee830e9384edb9621c1b9009_1797048_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Beau</title>
+      <link>//localhost:1313/albums/beau/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/beau/</guid><media:content url="//localhost:1313/albums/beau/Beau-20240329-1_hufa7dbdcba28ae4624a8f74a3478d3b8b_1622979_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/beau/Beau-20240329-1_hufa7dbdcba28ae4624a8f74a3478d3b8b_1622979_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Belit</title>
+      <link>//localhost:1313/albums/belit/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/belit/</guid><media:content url="//localhost:1313/albums/belit/Belit-20240517-1_hu3c7e745483cea65d94516736afe8a01d_1816867_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/belit/Belit-20240517-1_hu3c7e745483cea65d94516736afe8a01d_1816867_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bella</title>
+      <link>//localhost:1313/albums/bella-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/bella-2/</guid><media:content url="//localhost:1313/albums/bella-2/Bella-20240602-1_hu2c3be5ddd56a3c84ed955dc3e6093a80_846856_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/bella-2/Bella-20240602-1_hu2c3be5ddd56a3c84ed955dc3e6093a80_846856_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bella</title>
+      <link>//localhost:1313/albums/bella-3/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/bella-3/</guid><media:content url="//localhost:1313/albums/bella-3/Bella-20240719-1_hud77cbc20001c1f218c4bf4cfa66a5068_730498_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/bella-3/Bella-20240719-1_hud77cbc20001c1f218c4bf4cfa66a5068_730498_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bella</title>
+      <link>//localhost:1313/albums/bella/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/bella/</guid><media:content url="//localhost:1313/albums/bella/Bella-20240424-1_hu86c86879497c8228e8409deb0089bacc_955031_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/bella/Bella-20240424-1_hu86c86879497c8228e8409deb0089bacc_955031_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Benji</title>
+      <link>//localhost:1313/albums/benji-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/benji-1/</guid><media:content url="//localhost:1313/albums/benji-1/Benji-20240429-1_hu691e7e42661bccb3f2ac5d1b5fed0ad0_1471405_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/benji-1/Benji-20240429-1_hu691e7e42661bccb3f2ac5d1b5fed0ad0_1471405_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Benji</title>
+      <link>//localhost:1313/albums/benji-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/benji-2/</guid><media:content url="//localhost:1313/albums/benji-2/Benji-20240615-1_huc25ac6e1107717b5442659f6321879ea_1933625_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/benji-2/Benji-20240615-1_huc25ac6e1107717b5442659f6321879ea_1933625_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Benny</title>
+      <link>//localhost:1313/albums/benny-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/benny-1/</guid><media:content url="//localhost:1313/albums/benny-1/Benny-20240424-1_hufbd0908368b3c3850eea97a2283d61a6_801933_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/benny-1/Benny-20240424-1_hufbd0908368b3c3850eea97a2283d61a6_801933_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Benny</title>
+      <link>//localhost:1313/albums/benny-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/benny-2/</guid><media:content url="//localhost:1313/albums/benny-2/Benny-20240503-1_hub0cc475c4f8c52b4688d7748bb1b4f40_2172709_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/benny-2/Benny-20240503-1_hub0cc475c4f8c52b4688d7748bb1b4f40_2172709_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Benny</title>
+      <link>//localhost:1313/albums/benny-3/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/benny-3/</guid><media:content url="//localhost:1313/albums/benny-3/Benny-20240519-1_hu2cbf5ca84b9a8f4668b11da2427913ce_952748_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/benny-3/Benny-20240519-1_hu2cbf5ca84b9a8f4668b11da2427913ce_952748_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bernie</title>
+      <link>//localhost:1313/albums/bernie/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/bernie/</guid><media:content url="//localhost:1313/albums/bernie/Bernie-20240626-1_hu1202781b0c0388d5629bbc1c2495ff46_2003806_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/bernie/Bernie-20240626-1_hu1202781b0c0388d5629bbc1c2495ff46_2003806_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bilbo</title>
+      <link>//localhost:1313/albums/bilbo/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/bilbo/</guid><media:content url="//localhost:1313/albums/bilbo/Bilbo-20240426-1_hu1a9387d20a16bea9c6c1214b7890d4e5_1532085_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/bilbo/Bilbo-20240426-1_hu1a9387d20a16bea9c6c1214b7890d4e5_1532085_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bill</title>
+      <link>//localhost:1313/albums/bill-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/bill-1/</guid><media:content url="//localhost:1313/albums/bill-1/Bill-20240412-1_hueb8d08a455fed5a0214500cc80f32b54_941012_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/bill-1/Bill-20240412-1_hueb8d08a455fed5a0214500cc80f32b54_941012_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bill</title>
+      <link>//localhost:1313/albums/bill-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/bill-2/</guid><media:content url="//localhost:1313/albums/bill-2/Bill-20240629-2_hu0a5b394b7551dbef80715ac9dea78694_1153142_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/bill-2/Bill-20240629-2_hu0a5b394b7551dbef80715ac9dea78694_1153142_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
