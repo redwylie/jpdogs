@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Binx on JP Dogs</title>
+    <link>//localhost:1313/tags/binx/</link>
+    <description>Recent content in Binx on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/binx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Binx</title>
+      <link>//localhost:1313/albums/binx/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/binx/</guid><media:content url="//localhost:1313/albums/binx/Binx-20240614-1_hu6d5660defc6b99f47c1336fdc4c377bd_1226169_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/binx/Binx-20240614-1_hu6d5660defc6b99f47c1336fdc4c377bd_1226169_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
