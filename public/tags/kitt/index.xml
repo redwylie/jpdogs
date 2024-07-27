@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kitt on JP Dogs</title>
+    <link>//localhost:1313/tags/kitt/</link>
+    <description>Recent content in Kitt on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/kitt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kitt</title>
+      <link>//localhost:1313/albums/kitt/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/kitt/</guid><media:content url="//localhost:1313/albums/kitt/Kitt-20240510-1_hu0e8db2af7ec98cb482a8f22d5cdf3466_586616_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/kitt/Kitt-20240510-1_hu0e8db2af7ec98cb482a8f22d5cdf3466_586616_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
