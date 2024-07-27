@@ -86,9 +86,9 @@
       <title>Georgia</title>
       <link>//localhost:1313/albums/georgia/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/albums/georgia/</guid><media:content url="//localhost:1313/albums/georgia/Gerogia-2_hub271b8dd49a963edde7eefd99fb8973b_1769731_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+      <guid>//localhost:1313/albums/georgia/</guid><media:content url="//localhost:1313/albums/georgia/Georgia-20240517-1_hu07fd032e09825e2c2e14d4dcbea7f653_427238_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/albums/georgia/Gerogia-2_hub271b8dd49a963edde7eefd99fb8973b_1769731_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/albums/georgia/Georgia-20240517-1_hu07fd032e09825e2c2e14d4dcbea7f653_427238_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
@@ -152,15 +152,6 @@
       <guid>//localhost:1313/albums/zinn/</guid><media:content url="//localhost:1313/albums/zinn/Zinn-1_hue6535d33ac4d60fc8d08ed2b218e9a62_1846755_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;//localhost:1313/albums/zinn/Zinn-1_hue6535d33ac4d60fc8d08ed2b218e9a62_1846755_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
-          &lt;p&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Hazel</title>
-      <link>//localhost:1313/albums/hazel/</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/albums/hazel/</guid><media:content url="//localhost:1313/albums/hazel/Hazel-1_hu52a2be55d8cf9e4668f3148fad2203af_1304737_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;//localhost:1313/albums/hazel/Hazel-1_hu52a2be55d8cf9e4668f3148fad2203af_1304737_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
@@ -908,6 +899,15 @@
       <guid>//localhost:1313/albums/daisy-2/</guid><media:content url="//localhost:1313/albums/daisy-2/Daisy-20240505-1_hu3734063db062a3b2a879c89118869a28_1065362_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;//localhost:1313/albums/daisy-2/Daisy-20240505-1_hu3734063db062a3b2a879c89118869a28_1065362_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Daphne</title>
+      <link>//localhost:1313/albums/daphne/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/daphne/</guid><media:content url="//localhost:1313/albums/daphne/Daphney-20240725-1_huc7c6f3f6f25729d5f1a06172b94b2ea1_779483_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/daphne/Daphney-20240725-1_huc7c6f3f6f25729d5f1a06172b94b2ea1_779483_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
   </channel>

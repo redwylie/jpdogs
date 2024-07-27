@@ -9,14 +9,23 @@
     <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
     <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
     <copyright>© Mark Wylie</copyright>
-    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/hazel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/hazel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hazel</title>
-      <link>//localhost:1313/albums/hazel/</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/albums/hazel/</guid><media:content url="//localhost:1313/albums/hazel/Hazel-1_hu52a2be55d8cf9e4668f3148fad2203af_1304737_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+      <link>//localhost:1313/albums/hazel-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/hazel-1/</guid><media:content url="//localhost:1313/albums/hazel-1/Hazel-20240424-1_hu020e30addf4e095f3ebb2ea10050de21_454677_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/albums/hazel/Hazel-1_hu52a2be55d8cf9e4668f3148fad2203af_1304737_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/albums/hazel-1/Hazel-20240424-1_hu020e30addf4e095f3ebb2ea10050de21_454677_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Hazel</title>
+      <link>//localhost:1313/albums/hazel-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/hazel-2/</guid><media:content url="//localhost:1313/albums/hazel-2/Hazel-20240327-1_hu370af4585d03ae70e6cc67338cd9f364_547333_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/hazel-2/Hazel-20240327-1_hu370af4585d03ae70e6cc67338cd9f364_547333_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
   </channel>

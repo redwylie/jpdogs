@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hank on JP Dogs</title>
+    <link>//localhost:1313/tags/hank/</link>
+    <description>Recent content in Hank on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/hank/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hank</title>
+      <link>//localhost:1313/albums/hank-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/hank-1/</guid><media:content url="//localhost:1313/albums/hank-1/Hank-20240401-1_hu41d1f47145849df1a923c70cfa9f8e4d_354608_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/hank-1/Hank-20240401-1_hu41d1f47145849df1a923c70cfa9f8e4d_354608_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Hank</title>
+      <link>//localhost:1313/albums/hank-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/hank-2/</guid><media:content url="//localhost:1313/albums/hank-2/Hank-20240508-1_hu8642a60f40f94b4bf401dd51cb143fe8_741361_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/hank-2/Hank-20240508-1_hu8642a60f40f94b4bf401dd51cb143fe8_741361_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Hank</title>
+      <link>//localhost:1313/albums/hank-3/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/hank-3/</guid><media:content url="//localhost:1313/albums/hank-3/Hank-20240701-10_hu38ba6fd81550432c9794dae27e51e94e_515636_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/hank-3/Hank-20240701-10_hu38ba6fd81550432c9794dae27e51e94e_515636_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

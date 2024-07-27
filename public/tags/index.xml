@@ -81,11 +81,6 @@
       <pubDate>Thu, 25 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
       <guid>//localhost:1313/tags/zinn/</guid><description>&lt;no value&gt;</description></item>
     <item>
-      <title>Hazel</title>
-      <link>//localhost:1313/tags/hazel/</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/tags/hazel/</guid><description>&lt;no value&gt;</description></item>
-    <item>
       <title>Ozzie</title>
       <link>//localhost:1313/tags/ozzie/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
@@ -510,5 +505,10 @@
       <link>//localhost:1313/tags/emmie/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
       <guid>//localhost:1313/tags/emmie/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Felix</title>
+      <link>//localhost:1313/tags/felix/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/tags/felix/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
