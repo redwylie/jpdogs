@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hudson on JP Dogs</title>
+    <link>//localhost:1313/tags/hudson/</link>
+    <description>Recent content in Hudson on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/hudson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hudson</title>
+      <link>//localhost:1313/albums/hudson-1/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/hudson-1/</guid><media:content url="//localhost:1313/albums/hudson-1/Hudson-20240528-1_huedfc71dcc0641b7e2ba243203a03a772_356132_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/hudson-1/Hudson-20240528-1_huedfc71dcc0641b7e2ba243203a03a772_356132_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Hudson</title>
+      <link>//localhost:1313/albums/hudson-2/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/hudson-2/</guid><media:content url="//localhost:1313/albums/hudson-2/Hudson-20240709-1_hud6036d5ce97de22b8907edd359a58858_318966_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/hudson-2/Hudson-20240709-1_hud6036d5ce97de22b8907edd359a58858_318966_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

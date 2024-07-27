@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Holly on JP Dogs</title>
+    <link>//localhost:1313/tags/holly/</link>
+    <description>Recent content in Holly on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/holly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Holly</title>
+      <link>//localhost:1313/albums/holly/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/holly/</guid><media:content url="//localhost:1313/albums/holly/Holly-20240422-1_hu4ea2d04a8201d2fd9824bb7fa8ea34b7_399908_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/holly/Holly-20240422-1_hu4ea2d04a8201d2fd9824bb7fa8ea34b7_399908_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
