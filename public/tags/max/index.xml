@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max on JP Dogs</title>
+    <link>//localhost:1313/tags/max/</link>
+    <description>Recent content in Max on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/max/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Max</title>
+      <link>//localhost:1313/albums/max-1/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/max-1/</guid><media:content url="//localhost:1313/albums/max-1/Max-20240508-2_hu95e9cbea76f1acd11a87417191f638b2_514244_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/max-1/Max-20240508-2_hu95e9cbea76f1acd11a87417191f638b2_514244_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Max</title>
+      <link>//localhost:1313/albums/max-2/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/max-2/</guid><media:content url="//localhost:1313/albums/max-2/Max-20240517-1_hubd333de924c5b4ff4c887f0c1846292d_616027_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/max-2/Max-20240517-1_hubd333de924c5b4ff4c887f0c1846292d_616027_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

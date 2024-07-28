@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Layla on JP Dogs</title>
+    <link>//localhost:1313/tags/layla/</link>
+    <description>Recent content in Layla on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/layla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Layla</title>
+      <link>//localhost:1313/albums/layla-1/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/layla-1/</guid><media:content url="//localhost:1313/albums/layla-1/Layla-20240504-1_hu1fed32acc580c25d31bfa1026a385a77_286333_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/layla-1/Layla-20240504-1_hu1fed32acc580c25d31bfa1026a385a77_286333_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Layla</title>
+      <link>//localhost:1313/albums/layla-2/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/layla-2/</guid><media:content url="//localhost:1313/albums/layla-2/Layla-20240620-4_hu2a7478476c11e49d14ca86a5fa34c8fd_390541_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/layla-2/Layla-20240620-4_hu2a7478476c11e49d14ca86a5fa34c8fd_390541_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

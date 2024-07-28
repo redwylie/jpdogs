@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Milo on JP Dogs</title>
+    <link>//localhost:1313/tags/milo/</link>
+    <description>Recent content in Milo on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/milo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Milo</title>
+      <link>//localhost:1313/albums/milo-1/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/milo-1/</guid><media:content url="//localhost:1313/albums/milo-1/Finley,%20Milo-20240506-2_hu563e5a46d913afd5e14c2a52bfcdec6f_634699_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/milo-1/Finley,%20Milo-20240506-2_hu563e5a46d913afd5e14c2a52bfcdec6f_634699_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Milo</title>
+      <link>//localhost:1313/albums/milo-2/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/milo-2/</guid><media:content url="//localhost:1313/albums/milo-2/Milo-20240401-1_hu3e713e0270570d7b3cb846a9fbfeab9f_465146_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/milo-2/Milo-20240401-1_hu3e713e0270570d7b3cb846a9fbfeab9f_465146_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Milo</title>
+      <link>//localhost:1313/albums/milo-3/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/milo-3/</guid><media:content url="//localhost:1313/albums/milo-3/Milo-20240612-6_huff8f387d2b408cc4c6002ed1ebd33c06_469124_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/milo-3/Milo-20240612-6_huff8f387d2b408cc4c6002ed1ebd33c06_469124_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Milo</title>
+      <link>//localhost:1313/albums/milo-4/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/milo-4/</guid><media:content url="//localhost:1313/albums/milo-4/Milo-20240628-1_hu5766fe802a1e2df354cfdd0fb210a763_447973_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/milo-4/Milo-20240628-1_hu5766fe802a1e2df354cfdd0fb210a763_447973_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
