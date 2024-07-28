@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leo on JP Dogs</title>
+    <link>//localhost:1313/tags/leo/</link>
+    <description>Recent content in Leo on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/leo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leo</title>
+      <link>//localhost:1313/albums/leo-1/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/leo-1/</guid><media:content url="//localhost:1313/albums/leo-1/Leo-20240523-5_hu1e64aa3fbd9235d119d62c690deddd29_538535_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/leo-1/Leo-20240523-5_hu1e64aa3fbd9235d119d62c690deddd29_538535_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Leo</title>
+      <link>//localhost:1313/albums/leo-2/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/leo-2/</guid><media:content url="//localhost:1313/albums/leo-2/Leo-20240629-4_hu7f176328554d95d836c0a3a35de51904_274395_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/leo-2/Leo-20240629-4_hu7f176328554d95d836c0a3a35de51904_274395_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Leo</title>
+      <link>//localhost:1313/albums/leo-3/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/leo-3/</guid><media:content url="//localhost:1313/albums/leo-3/Leo,%20Olive-20240611-9_hud0d4bb541a25c21f49b4d6d1a17e4d5e_641146_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/leo-3/Leo,%20Olive-20240611-9_hud0d4bb541a25c21f49b4d6d1a17e4d5e_641146_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

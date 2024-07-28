@@ -12,6 +12,15 @@
     <lastBuildDate>Tue, 23 Apr 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/ozzie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ozzie</title>
+      <link>//localhost:1313/albums/ozzie-2/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/ozzie-2/</guid><media:content url="//localhost:1313/albums/ozzie-2/Ozzie-20240402-1_hua9197fe793a33ec38bb0902a58b76854_561176_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/ozzie-2/Ozzie-20240402-1_hua9197fe793a33ec38bb0902a58b76854_561176_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Ozzie</title>
       <link>//localhost:1313/albums/ozzie/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
       <guid>//localhost:1313/albums/ozzie/</guid><media:content url="//localhost:1313/albums/ozzie/Ozzie-1_hud83eb660376f622081be05c8f471701c_1101151_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
