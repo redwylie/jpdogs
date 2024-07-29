@@ -12,11 +12,29 @@
     <lastBuildDate>Thu, 02 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/stevie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stevie</title>
-      <link>//localhost:1313/albums/stevie/</link>
+      <link>//localhost:1313/albums/stevie-1/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/albums/stevie/</guid><media:content url="//localhost:1313/albums/stevie/stevie-1_hub6359aa8ffd00472318617abe726ed13_1693206_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+      <guid>//localhost:1313/albums/stevie-1/</guid><media:content url="//localhost:1313/albums/stevie-1/Stevie-20240502-1_hub07f339312257e74d6ba869a26d9dc34_678149_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/albums/stevie/stevie-1_hub6359aa8ffd00472318617abe726ed13_1693206_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/albums/stevie-1/Stevie-20240502-1_hub07f339312257e74d6ba869a26d9dc34_678149_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Stevie</title>
+      <link>//localhost:1313/albums/stevie-2/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/stevie-2/</guid><media:content url="//localhost:1313/albums/stevie-2/Layla,%20Stevie-20240620-4_hu40b1fbdf0a024f2c460b434b5207897c_524314_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/stevie-2/Layla,%20Stevie-20240620-4_hu40b1fbdf0a024f2c460b434b5207897c_524314_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Stevie</title>
+      <link>//localhost:1313/albums/stevie-3/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/stevie-3/</guid><media:content url="//localhost:1313/albums/stevie-3/Stevie-20240706-1_hu4dd5098f4fe49c22575c6c49250e9baa_266153_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/stevie-3/Stevie-20240706-1_hu4dd5098f4fe49c22575c6c49250e9baa_266153_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
   </channel>

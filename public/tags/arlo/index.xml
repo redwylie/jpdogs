@@ -30,6 +30,15 @@
         </description></item>
     <item>
       <title>Arlo</title>
+      <link>//localhost:1313/albums/arlo-4/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/arlo-4/</guid><media:content url="//localhost:1313/albums/arlo-4/Arlo-20240508-1_hu6893ed0762b8a9afb1826669d0a02965_435278_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/arlo-4/Arlo-20240508-1_hu6893ed0762b8a9afb1826669d0a02965_435278_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Arlo</title>
       <link>//localhost:1313/albums/arlo/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
       <guid>//localhost:1313/albums/arlo/</guid><media:content url="//localhost:1313/albums/arlo/Arlo-20240508-1_huf7108528b80e4f26c0dba1eee288e080_1344559_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>

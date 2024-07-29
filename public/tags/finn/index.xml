@@ -28,5 +28,23 @@
           &lt;img src=&quot;//localhost:1313/albums/finn-2/Finn-20240721-1_huae0a9406f38d5ef1ff0771afc8f72a40_1515665_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
+    <item>
+      <title>Finn</title>
+      <link>//localhost:1313/albums/finn-3/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/finn-3/</guid><media:content url="//localhost:1313/albums/finn-3/Finn-20240726-1_hua8fdfa35beff61072dcdef387cd8d056_459526_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/finn-3/Finn-20240726-1_hua8fdfa35beff61072dcdef387cd8d056_459526_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Finn</title>
+      <link>//localhost:1313/albums/finn-4/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/finn-4/</guid><media:content url="//localhost:1313/albums/finn-4/Finn-20240726-4_hu84296079ffdd318e2d55b86aac0199a6_452692_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/finn-4/Finn-20240726-4_hu84296079ffdd318e2d55b86aac0199a6_452692_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>

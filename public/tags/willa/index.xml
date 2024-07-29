@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Willa on JP Dogs</title>
+    <link>//localhost:1313/tags/willa/</link>
+    <description>Recent content in Willa on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/willa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Willa</title>
+      <link>//localhost:1313/albums/willa-1/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/willa-1/</guid><media:content url="//localhost:1313/albums/willa-1/Graham,%20Willa-20240629-6_hu776b372a0e1bdccd4cb4a84343bf5396_611384_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/willa-1/Graham,%20Willa-20240629-6_hu776b372a0e1bdccd4cb4a84343bf5396_611384_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Willa</title>
+      <link>//localhost:1313/albums/willa-2/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/willa-2/</guid><media:content url="//localhost:1313/albums/willa-2/Ginger,%20Willa-20240723-2_hucdf756504c2e67dfd1d1cfd0fa0a9c40_646668_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/willa-2/Ginger,%20Willa-20240723-2_hucdf756504c2e67dfd1d1cfd0fa0a9c40_646668_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

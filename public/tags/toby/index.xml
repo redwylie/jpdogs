@@ -12,6 +12,15 @@
     <lastBuildDate>Fri, 31 Mar 2023 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/toby/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Toby</title>
+      <link>//localhost:1313/albums/toby-2/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/toby-2/</guid><media:content url="//localhost:1313/albums/toby-2/Toby-20240408-1_hu8c45d86787b52b3ef65691c2e9fac0da_532155_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/toby-2/Toby-20240408-1_hu8c45d86787b52b3ef65691c2e9fac0da_532155_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Toby</title>
       <link>//localhost:1313/albums/toby/</link>
       <pubDate>Fri, 31 Mar 2023 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
       <guid>//localhost:1313/albums/toby/</guid><media:content url="//localhost:1313/albums/toby/Toby-1_huacd0c942faaedd614e1d11915b678c6c_1280591_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>

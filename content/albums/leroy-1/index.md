@@ -1,7 +1,7 @@
 ---
 date: 2024-05-05
-featured_image: Leroy
-title: 
+featured_image: 
+title: Leroy
 description: 
 tags: ["leroy"]
 ---

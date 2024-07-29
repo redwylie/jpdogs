@@ -12,6 +12,15 @@
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/greta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Greta</title>
+      <link>//localhost:1313/albums/greta-2/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/greta-2/</guid><media:content url="//localhost:1313/albums/greta-2/Frances,%20Greta-20240727-4_hu655564fd9bf9d509dd9e3c81999f7596_598109_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/greta-2/Frances,%20Greta-20240727-4_hu655564fd9bf9d509dd9e3c81999f7596_598109_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Greta</title>
       <link>//localhost:1313/albums/greta/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
       <guid>//localhost:1313/albums/greta/</guid><media:content url="//localhost:1313/albums/greta/Greta-20240718-1_hue58cd6919a76a003c5cd282f0827f15d_279762_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
