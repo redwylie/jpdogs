@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruby on JP Dogs</title>
+    <link>//localhost:1313/tags/ruby/</link>
+    <description>Recent content in Ruby on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ruby</title>
+      <link>//localhost:1313/albums/ruby-1/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/ruby-1/</guid><media:content url="//localhost:1313/albums/ruby-1/Ruby-20240329-1_hu98d7cf2096973067efbe36ffef60abb6_264387_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/ruby-1/Ruby-20240329-1_hu98d7cf2096973067efbe36ffef60abb6_264387_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Ruby</title>
+      <link>//localhost:1313/albums/ruby-2/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/ruby-2/</guid><media:content url="//localhost:1313/albums/ruby-2/Ruby-20240521-2_hucb194e418972ceb241c97896e2f172fd_489823_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/ruby-2/Ruby-20240521-2_hucb194e418972ceb241c97896e2f172fd_489823_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Ruby</title>
+      <link>//localhost:1313/albums/ruby-3/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/ruby-3/</guid><media:content url="//localhost:1313/albums/ruby-3/Ruby-20240601-4_hu811a426d4a9b474f40d59f41f2c1a253_330821_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/ruby-3/Ruby-20240601-4_hu811a426d4a9b474f40d59f41f2c1a253_330821_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Ruby</title>
+      <link>//localhost:1313/albums/ruby-4/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/ruby-4/</guid><media:content url="//localhost:1313/albums/ruby-4/Ruby-20240725-5_huabd202fd2c6553241d71b8a9a9645945_267820_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/ruby-4/Ruby-20240725-5_huabd202fd2c6553241d71b8a9a9645945_267820_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

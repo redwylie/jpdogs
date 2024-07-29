@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rico on JP Dogs</title>
+    <link>//localhost:1313/tags/rico/</link>
+    <description>Recent content in Rico on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/rico/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rico</title>
+      <link>//localhost:1313/albums/rico-1/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/rico-1/</guid><media:content url="//localhost:1313/albums/rico-1/Rico-20240428-1_hu869da093e00e9c392ff6144c52d8f78a_341262_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/rico-1/Rico-20240428-1_hu869da093e00e9c392ff6144c52d8f78a_341262_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Rico</title>
+      <link>//localhost:1313/albums/rico-2/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/rico-2/</guid><media:content url="//localhost:1313/albums/rico-2/Rico-20240517-2_hu4b527f55f0e53b337e3bf314777df1a6_359871_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/rico-2/Rico-20240517-2_hu4b527f55f0e53b337e3bf314777df1a6_359871_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

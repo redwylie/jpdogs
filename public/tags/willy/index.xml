@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Willy on JP Dogs</title>
+    <link>//localhost:1313/tags/willy/</link>
+    <description>Recent content in Willy on JP Dogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>redwylie@gmail.com (Mark Wylie)</managingEditor>
+    <webMaster>redwylie@gmail.com (Mark Wylie)</webMaster>
+    <copyright>© Mark Wylie</copyright>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 -0400</lastBuildDate><atom:link href="//localhost:1313/tags/willy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Willy</title>
+      <link>//localhost:1313/albums/willy-1/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/willy-1/</guid><media:content url="//localhost:1313/albums/willy-1/Willy-20240412-1_hubcd0cce81ad7c9ce1144b7f46aea9169_254367_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/willy-1/Willy-20240412-1_hubcd0cce81ad7c9ce1144b7f46aea9169_254367_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Willy</title>
+      <link>//localhost:1313/albums/willy-2/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/willy-2/</guid><media:content url="//localhost:1313/albums/willy-2/Willy-20240601-2_huaf6c5558c966c856a981bc7c5f51de38_501260_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/willy-2/Willy-20240601-2_huaf6c5558c966c856a981bc7c5f51de38_501260_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
