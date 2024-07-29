@@ -47,15 +47,6 @@
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title></title>
-      <link>//localhost:1313/albums/remi-1/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/albums/remi-1/</guid><media:content url="//localhost:1313/albums/remi-1/Remi-20240629-3_hudbaeb379f130b915d105c55d59ecd1b9_467429_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;//localhost:1313/albums/remi-1/Remi-20240629-3_hudbaeb379f130b915d105c55d59ecd1b9_467429_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
-          &lt;p&gt;&lt;/p&gt;
-        </description></item>
-    <item>
       <title>Addy</title>
       <link>//localhost:1313/albums/addy/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
@@ -908,6 +899,15 @@
       <guid>//localhost:1313/albums/maple-2/</guid><media:content url="//localhost:1313/albums/maple-2/Maple-20240717-13_hu5b78c0b947742974b4cf6bdd25dd8506_453678_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;//localhost:1313/albums/maple-2/Maple-20240717-13_hu5b78c0b947742974b4cf6bdd25dd8506_453678_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Marley</title>
+      <link>//localhost:1313/albums/marley/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/marley/</guid><media:content url="//localhost:1313/albums/marley/Marley-20240703-1_hu3fc10007aef3d4e6f50ec24aed614d54_432342_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/marley/Marley-20240703-1_hu3fc10007aef3d4e6f50ec24aed614d54_432342_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
   </channel>

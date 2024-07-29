@@ -31,9 +31,6 @@
     <loc>//localhost:1313/albums/alo/</loc>
     <lastmod>2024-05-29T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/albums/remi-1/</loc>
-    <lastmod>2024-05-05T00:00:00-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/addy/</loc>
     <lastmod>2024-05-05T00:00:00-04:00</lastmod>
   </url><url>
@@ -898,6 +895,9 @@
     <loc>//localhost:1313/albums/pepper-2/</loc>
     <lastmod>2024-05-05T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/percy/</loc>
+    <lastmod>2024-05-05T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/albums/percy/</loc>
     <lastmod>2024-05-05T00:00:00-04:00</lastmod>
   </url><url>
@@ -1019,6 +1019,12 @@
     <lastmod>2024-05-05T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/reggie/</loc>
+    <lastmod>2024-05-05T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/remi/</loc>
+    <lastmod>2024-05-05T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/remi-1/</loc>
     <lastmod>2024-05-05T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/remy/</loc>
