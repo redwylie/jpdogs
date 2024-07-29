@@ -8,8 +8,8 @@ title = "JP Dogs"
 
 [params]
   defaultTheme = "dark"
-  description = "This is the website of Mark Wylie, and JP Dogs. Featuring my personal work, and photos I have taken around Jamaica Plain."
-  title = "Mark Wylie / JP Dogs"
+  description = "Jamaica Plain Dogs. Featuring my personal photographs I have taken around Jamaica Plain Massachsetts."
+  title = "Jamaica Plain Dogs"
   [params.author]
     email = "redwylie@gmail.com"
     name = "Mark Wylie"

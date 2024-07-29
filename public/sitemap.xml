@@ -1822,6 +1822,9 @@
     <loc>//localhost:1313/albums/ozzie/</loc>
     <lastmod>2024-04-23T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/albums/daisy-1/</loc>
+    <lastmod>2024-01-01T00:00:00-05:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/anka/</loc>
     <lastmod>2024-01-01T00:00:00-05:00</lastmod>
   </url><url>
@@ -2252,9 +2255,6 @@
     <lastmod>2024-01-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/daisy/</loc>
-    <lastmod>2024-01-01T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/albums/daisy-1/</loc>
     <lastmod>2024-01-01T00:00:00-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/daisy-2/</loc>
