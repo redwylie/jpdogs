@@ -74,6 +74,15 @@
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
+      <title>Cleo</title>
+      <link>//localhost:1313/albums/cleo/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/cleo/</guid><media:content url="//localhost:1313/albums/cleo/Cleo-20240729-1_hu0a20e742fff26cb3573c928acbf09090_581090_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/cleo/Cleo-20240729-1_hu0a20e742fff26cb3573c928acbf09090_581090_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Dylan</title>
       <link>//localhost:1313/albums/dylan/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
@@ -587,6 +596,15 @@
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
+      <title>Levi</title>
+      <link>//localhost:1313/albums/levi/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
+      <guid>//localhost:1313/albums/levi/</guid><media:content url="//localhost:1313/albums/levi/Levi-20240729-2_hud8a54eef9cd87b103506af483a70c073_461402_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/albums/levi/Levi-20240729-2_hud8a54eef9cd87b103506af483a70c073_461402_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
       <title>Lew</title>
       <link>//localhost:1313/albums/lew/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
@@ -890,24 +908,6 @@
       <guid>//localhost:1313/albums/maple-1/</guid><media:content url="//localhost:1313/albums/maple-1/Maple-20240508-1_hu0644c8b18dd3e73c680e3c00d3909fa6_552670_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;//localhost:1313/albums/maple-1/Maple-20240508-1_hu0644c8b18dd3e73c680e3c00d3909fa6_552670_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
-          &lt;p&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Maple</title>
-      <link>//localhost:1313/albums/maple-2/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/albums/maple-2/</guid><media:content url="//localhost:1313/albums/maple-2/Maple-20240717-13_hu5b78c0b947742974b4cf6bdd25dd8506_453678_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;//localhost:1313/albums/maple-2/Maple-20240717-13_hu5b78c0b947742974b4cf6bdd25dd8506_453678_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
-          &lt;p&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Marley</title>
-      <link>//localhost:1313/albums/marley/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate><author>redwylie@gmail.com (Mark Wylie)</author>
-      <guid>//localhost:1313/albums/marley/</guid><media:content url="//localhost:1313/albums/marley/Marley-20240703-1_hu3fc10007aef3d4e6f50ec24aed614d54_432342_900x600_fill_q95_box_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;//localhost:1313/albums/marley/Marley-20240703-1_hu3fc10007aef3d4e6f50ec24aed614d54_432342_900x600_fill_q95_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
   </channel>
