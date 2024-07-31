@@ -2,6 +2,15 @@
   {{ partial "title.html" . }}
   {{ partial "featured.html" . }}
   <section class="galleries">
+    <!-- <a class="card" href="/stories/" title="Sophie">
+      <img loading="lazy" width="600" height="400" src="/albums/joe/Joe-20240730-1_hu8ef59efd048ab4d3f89560d4e80ce162_582020_filter_6331161270205693318.jpg" style="background-color: #4c463c" alt="Sophie">
+      <div>
+        <h2>Let's Talk About Your Dog</h2>
+        <p>
+          1 Story
+        </p>
+      </div>
+    </a> -->
     {{ range where .Pages "Params.private" "ne" true }}
       {{ partial "album-card.html" . }}
     {{ end }}
