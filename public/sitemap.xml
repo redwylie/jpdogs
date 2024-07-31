@@ -49,6 +49,12 @@
     <loc>//localhost:1313/albums/boomer/</loc>
     <lastmod>2024-05-05T00:00:00-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/cleo/</loc>
+    <lastmod>2024-05-05T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/cleo/</loc>
+    <lastmod>2024-05-05T00:00:00-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/dylan/</loc>
     <lastmod>2024-05-05T00:00:00-04:00</lastmod>
   </url><url>
@@ -365,6 +371,12 @@
     <lastmod>2024-05-05T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/albums/letty/</loc>
+    <lastmod>2024-05-05T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/levi/</loc>
+    <lastmod>2024-05-05T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/albums/levi/</loc>
     <lastmod>2024-05-05T00:00:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/lew/</loc>
@@ -2828,8 +2840,12 @@
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>
+    <loc>//localhost:1313/stories/</loc>
+  </url><url>
     <loc>//localhost:1313/series/</loc>
   </url><url>
     <loc>//localhost:1313/tags/sophie/</loc>
+  </url><url>
+    <loc>//localhost:1313/story/</loc>
   </url>
 </urlset>
