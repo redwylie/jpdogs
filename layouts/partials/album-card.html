@@ -5,9 +5,19 @@
     <div>
       <h2>{{ .page.Title }}</h2>
       <p>
-        {{ T "photoCount" (.imageCount | lang.FormatNumber 0) }}
-        {{ if gt .albumCount 0 }} in {{.albumCount}} albums{{ end }}
-        {{ if gt .albumCount 0 }}{{ T "in" }} {{ T "albumCount" (.albumCount | lang.FormatNumber 0) }}{{ end }}
+        {{ if gt .storyCount 0 }}
+          {{ if eq .storyCount 1 }} {{.storyCount}} story{{ end }}
+          {{ if gt .storyCount 1 }} {{.storyCount}} stories{{ end }}
+        {{ else }}
+          {{ if eq .page.Type "story" }}
+            {{ if .page.Param "display_date" }}
+             {{ .page.Date.Format "January 2, 2006"}}
+            {{ end }}
+          {{ else }}
+            {{ T "photoCount" (.imageCount | lang.FormatNumber 0) }}
+            {{ if gt .albumCount 0 }} in {{.albumCount}} albums{{ end }}
+          {{ end }}
+        {{ end }}
       </p>
     </div>
   </a>

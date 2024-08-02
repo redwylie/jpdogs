@@ -1,4 +1,4 @@
-copyright = "© Mark Wylie"
+copyright = "© 2024 - Mark Wylie"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 languageCode = "en"
@@ -8,7 +8,7 @@ title = "JP Dogs"
 
 [params]
   defaultTheme = "dark"
-  description = "Jamaica Plain Dogs. Featuring my personal photographs I have taken around Jamaica Plain Massachsetts."
+  description = "Jamaica Plain Dogs. Featuring photography of dog around Jamaica Plain Massachsetts."
   title = "Jamaica Plain Dogs"
   [params.author]
     email = "redwylie@gmail.com"
@@ -32,7 +32,7 @@ title = "JP Dogs"
 
 [module]
   [module.hugoVersion]
-    min = "0.121.2"
+    min = "0.123.0"
   [[module.imports]]
     path = "github.com/nicokaiser/hugo-theme-gallery/v4"
 
