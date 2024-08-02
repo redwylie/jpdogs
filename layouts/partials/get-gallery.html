@@ -14,7 +14,7 @@
       {{ $albumCount = add $albumCount 1 }}
       {{ $imageCount = add $imageCount (len (.Resources.ByType "image")) }}
     {{ end }}
-    {{ range where .RegularPagesRecursive "Params.story" "eq" true }}
+    {{ range (where .RegularPagesRecursive "Params.story" "eq" true) }}
       {{ $storyCount = add $storyCount 1 }}
     {{ end }}
   {{ end }}
