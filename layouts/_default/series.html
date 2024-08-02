@@ -1,0 +1,9 @@
+{{ define "main" }}
+  {{ partial "title.html" . }}
+
+  <section class="galleries">
+    {{ range (where site.Pages "Params.story" "eq" true).ByTitle }}
+      {{ partial "album-card.html" . }}
+    {{ end }}
+  </section>
+{{ end }}
