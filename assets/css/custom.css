@@ -10,14 +10,14 @@
     line-height: 1.75;
   
     a {
-      color: var(--text-1);
-      font-weight: 500;
-      text-decoration: underline;
+        color: var(--text-1);
+        font-weight: 500;
+        text-decoration: underline;
     }
   
     p {
-      margin-top: 1.25em;
-      margin-bottom: 1.25em;
+        margin-top: 1.25em;
+        margin-bottom: 1.25em;
     }
   
     hr {
@@ -27,14 +27,14 @@
     }
 
     hr.tall {
-      margin-top: 3rem;
-      margin-bottom: 3rem;
-      border: 1px solid #ccc;
-  }
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+        border: 1px solid #ccc;
+    }
 
     img {
-      margin-top: 2em;
-      margin-bottom: 2em;
+        margin-top: 2em;
+        margin-bottom: 2em;
     }
   
     h2 {
@@ -43,35 +43,40 @@
     }
 
     h3 {
-      margin-top: 1.6em;
-      margin-bottom: 0.6em;
-      color: var(--text-1);
-      font-weight: 600;
-      font-size: 1.25em;
-      line-height: 1.6;
+        margin-top: 1.6em;
+        margin-bottom: 0.6em;
+        color: var(--text-1);
+        font-weight: 600;
+        font-size: 1.25em;
+        line-height: 1.6;
+    }
+
+    figcaption {
+        font-weight: 100;
+        font-size: .75em;
     }
   
     ul {
-      margin-top: 1.25em;
-      margin-bottom: 1.25em;
-      padding-left: 1.625em;
-      list-style-type: disc;
-  
-      & > li {
-        margin-top: 0.5em;
-        margin-bottom: 0.5em;
-        padding-left: 0.375em;
-      }
-  
-      li::marker {
-        color: var(--text-2);
-        font-variant-numeric: tabular-nums;
-        unicode-bidi: isolate;
-        text-align: start !important;
-        text-align-last: start !important;
-        text-indent: 0 !important;
-        text-transform: none;
-      }
+        margin-top: 1.25em;
+        margin-bottom: 1.25em;
+        padding-left: 1.625em;
+        list-style-type: disc;
+    
+        & > li {
+            margin-top: 0.5em;
+            margin-bottom: 0.5em;
+            padding-left: 0.375em;
+        }
+    
+        li::marker {
+            color: var(--text-2);
+            font-variant-numeric: tabular-nums;
+            unicode-bidi: isolate;
+            text-align: start !important;
+            text-align-last: start !important;
+            text-indent: 0 !important;
+            text-transform: none;
+        }
     }
   
 
