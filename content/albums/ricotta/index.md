@@ -1,6 +1,6 @@
 ---
 date: 2024-05-05
-featured_image: Ricotta-20240520-9.jpg
+featured_image: Ricotta-20240520-9.webp
 title: Ricotta
 description: 
 tags: ["ricotta"]

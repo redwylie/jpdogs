@@ -1,6 +1,6 @@
 ---
 date: 2024-04-25
-featured_image: Zinn-1.jpg
+featured_image: Zinn-1.webp
 title: Zinn
 description: 
 tags: ["zinn"]

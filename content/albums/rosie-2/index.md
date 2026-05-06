@@ -1,6 +1,6 @@
 ---
 date: 2024-05-05
-featured_image: Rosie-20240522-8.jpg
+featured_image: Rosie-20240522-8.webp
 title: Rosie
 description: 
 tags: ["rosie"]

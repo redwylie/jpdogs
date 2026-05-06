@@ -1,6 +1,6 @@
 ---
 date: 2024-05-05
-featured_image: Maple-20240717-13.jpg
+featured_image: Maple-20240717-13.webp
 title: Maple
 description: 
 tags: ["maple"]

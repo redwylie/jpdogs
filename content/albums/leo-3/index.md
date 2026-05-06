@@ -1,6 +1,6 @@
 ---
 date: 2024-05-05
-featured_image: Leo, Olive-20240611-9.jpg
+featured_image: Leo, Olive-20240611-9.webp
 title: Leo
 description: 
 tags: ["leo"]

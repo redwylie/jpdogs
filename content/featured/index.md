@@ -1,6 +1,6 @@
 ---
 date: 2023-01-14
-featured_image: Lucy-20241231-1.jpg
+featured_image: Lucy-20241231-1.webp
 title: Featured
 sort_by: Name # Exif.Date
 featured: true

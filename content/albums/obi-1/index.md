@@ -1,6 +1,6 @@
 ---
 date: 2024-05-05
-featured_image: Obi-20240611-26.jpg
+featured_image: Obi-20240611-26.webp
 title: Obi
 description: 
 tags: ["obi"]

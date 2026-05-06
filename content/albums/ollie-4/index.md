@@ -1,6 +1,6 @@
 ---
 date: 2024-05-05
-featured_image: Ollie-20240702-3.jpg
+featured_image: Ollie-20240702-3.webp
 title: Ollie
 description: 
 tags: ["ollie"]
