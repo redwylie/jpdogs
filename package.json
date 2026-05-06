@@ -7,7 +7,9 @@
   },
   "private": "true",
   "scripts": {
-    "prettier": "prettier . --write"
+    "prettier": "prettier . --write",
+    "dev": "hugo server --navigateToChanged --noHTTPCache",
+    "build": "hugo --minify"
   },
   "version": "4.0.2"
 }
