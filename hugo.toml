@@ -15,7 +15,6 @@ title = "JP Dogs"
     name = "Mark Wylie"
   [params.socialIcons]
     instagram = "https://www.instagram.com/jamaicaplaindogs"   
-    patreon = "https://www.patreon.com/JamaicaPlainDogs"
     email = "mailto:jamaicaplaindogs@gmail.com"
 
 [outputs]
