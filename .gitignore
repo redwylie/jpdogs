@@ -3,3 +3,7 @@ package-lock.json
 .hugo_build.lock
 resources
 public
+
+# Override the global launch.json ignore — we want VSCode launch configs
+# tracked in this repo so the dev experience travels.
+!.vscode/launch.json

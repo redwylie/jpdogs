@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Hugo: dev server",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "hugo server --navigateToChanged --noHTTPCache",
+      "cwd": "${workspaceFolder}",
+      "presentation": {
+        "group": "dev"
+      }
+    },
+    {
+      "name": "Hugo: build (minified)",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "hugo --minify",
+      "cwd": "${workspaceFolder}",
+      "presentation": {
+        "group": "build"
+      }
+    }
+  ]
+}
