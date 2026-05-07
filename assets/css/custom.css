@@ -23,15 +23,15 @@
 
 /* Inline album-count badge on multi-album tags in the By Name list. */
 .tag-count {
-    display: inline-block;
+    /* display: inline-block;
     margin-left: 0.25rem;
-    padding: 0.05rem 0.45rem;
-    font-size: 0.75em;
-    font-weight: 500;
-    color: var(--text-2);
-    background: color-mix(in srgb, var(--text-1) 14%, transparent);
-    border-radius: 999px;
-    vertical-align: 1px;
+    padding: 0.05rem 0.45rem; */
+    /* font-size: 0.75em; */
+    /* font-weight: 500; */
+    /* color: var(--text-2); */
+    /* background: color-mix(in srgb, var(--text-1) 14%, transparent); */
+    /* border-radius: 999px;
+    vertical-align: 1px; */
 }
 
 /* Autosuggest dropdown */
