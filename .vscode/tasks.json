@@ -2,6 +2,17 @@
   "version": "2.0.0",
   "tasks": [
     {
+      "label": "Hugo: kill server",
+      "type": "shell",
+      "command": "pkill -f 'hugo server' 2>/dev/null; exit 0",
+      "presentation": {
+        "reveal": "silent",
+        "panel": "shared",
+        "showReuseMessage": false
+      },
+      "problemMatcher": []
+    },
+    {
       "label": "Hugo: dev server",
       "type": "shell",
       "command": "hugo server --navigateToChanged --noHTTPCache",

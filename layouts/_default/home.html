@@ -10,12 +10,18 @@
     {{ end }} -->
   </section>
 
+  {{ partial "dog-search.html" . }}
+
   <section class="tags-home">
-    
+
       <h2>By Name:</h2>
       <br/>
       {{ range .Site.Taxonomies.tags }}
-       <li class="tag-list"> <a href="{{ .Page.Permalink }}" class="tag"> {{ .Page.Title }}</a></li>
+       <li class="tag-list" data-album-count="{{ .Count }}">
+         <a href="{{ .Page.Permalink }}" class="tag">
+           {{ .Page.Title }}{{ if gt .Count 1 }} <span class="tag-count">({{ .Count }})</span>{{ end }}
+         </a>
+       </li>
       {{ end }}
 
       <!-- <h2>Pages</h2>

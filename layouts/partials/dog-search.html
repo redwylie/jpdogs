@@ -1,0 +1,170 @@
+{{/* Visitor-facing live filter for the By Name dog list. Filters
+the existing rendered <li class="tag-list"> elements client-side and
+also surfaces an autosuggest dropdown of top matches. No JSON index,
+no dependencies. */}}
+<div class="dog-search">
+  <div class="dog-search-inner">
+    <svg class="dog-search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="11" cy="11" r="7"></circle>
+      <path d="m21 21-4.3-4.3"></path>
+    </svg>
+    <input
+      type="search"
+      id="dog-search-input"
+      placeholder="Search dogs by name…"
+      aria-label="Search dogs by name"
+      aria-controls="dog-search-suggestions"
+      aria-expanded="false"
+      aria-autocomplete="list"
+      autocomplete="off"
+      spellcheck="false"
+      role="combobox"
+    />
+    <ul class="dog-search-suggestions" id="dog-search-suggestions" role="listbox" hidden></ul>
+  </div>
+  <p class="dog-search-status" aria-live="polite"></p>
+</div>
+<script>
+  (() => {
+    function init() {
+      const input = document.getElementById('dog-search-input');
+      const suggestions = document.getElementById('dog-search-suggestions');
+      if (!input || !suggestions) return;
+      const items = Array.from(document.querySelectorAll('.tags-home .tag-list'));
+      const status = document.querySelector('.dog-search-status');
+      const total = items.length;
+      const MAX_SUGGESTIONS = 8;
+      let highlightIdx = -1;
+      let currentMatches = [];
+
+      function renderSuggestions(matches) {
+        suggestions.innerHTML = '';
+        currentMatches = matches;
+        for (let i = 0; i < matches.length; i++) {
+          const li = matches[i];
+          const link = li.querySelector('a');
+          if (!link) continue;
+          // Strip the trailing count badge from the link text. Tolerant
+          // of both "Name 2" and "Name (2)" formats.
+          const name = link.textContent.replace(/\s+/g, ' ').trim().replace(/\s*\(?\d+\)?$/, '').trim();
+          const count = parseInt(li.dataset.albumCount || '1', 10);
+
+          const sLi = document.createElement('li');
+          sLi.setAttribute('role', 'option');
+          sLi.dataset.idx = String(i);
+
+          const sA = document.createElement('a');
+          sA.href = link.href;
+          sA.className = 'dog-search-suggestion';
+
+          const nameSpan = document.createElement('span');
+          nameSpan.className = 'dog-search-suggestion-name';
+          nameSpan.textContent = name;
+          sA.appendChild(nameSpan);
+
+          if (count > 1) {
+            const countSpan = document.createElement('span');
+            countSpan.className = 'dog-search-suggestion-count';
+            countSpan.textContent = count + ' albums';
+            sA.appendChild(countSpan);
+          }
+
+          sLi.appendChild(sA);
+          suggestions.appendChild(sLi);
+        }
+      }
+
+      function setHighlight(idx) {
+        const els = suggestions.querySelectorAll('li');
+        els.forEach((el, i) => {
+          el.classList.toggle('is-highlighted', i === idx);
+          if (i === idx) el.scrollIntoView({ block: 'nearest' });
+        });
+        highlightIdx = idx;
+      }
+
+      function openSuggestions() {
+        suggestions.hidden = false;
+        input.setAttribute('aria-expanded', 'true');
+      }
+      function closeSuggestions() {
+        suggestions.hidden = true;
+        input.setAttribute('aria-expanded', 'false');
+        highlightIdx = -1;
+      }
+
+      function apply() {
+        const q = input.value.trim().toLowerCase();
+        let visible = 0;
+        const matches = [];
+        for (const li of items) {
+          const matched = !q || li.textContent.toLowerCase().includes(q);
+          li.hidden = !matched;
+          if (matched) {
+            visible++;
+            if (q && matches.length < MAX_SUGGESTIONS) matches.push(li);
+          }
+        }
+
+        if (q && matches.length > 0) {
+          renderSuggestions(matches);
+          openSuggestions();
+        } else {
+          renderSuggestions([]);
+          closeSuggestions();
+        }
+
+        if (status) {
+          if (!q) status.textContent = '';
+          else if (visible === 0) status.textContent = 'No dogs match. Try a different name.';
+          else if (visible === 1) status.textContent = '1 matching name';
+          else status.textContent = visible + ' of ' + total + ' names';
+        }
+      }
+
+      input.addEventListener('input', apply);
+      input.addEventListener('focus', () => {
+        if (input.value.trim()) apply();
+      });
+
+      input.addEventListener('keydown', (e) => {
+        const open = !suggestions.hidden;
+        if (e.key === 'ArrowDown') {
+          if (!open) return;
+          e.preventDefault();
+          setHighlight(Math.min(highlightIdx + 1, currentMatches.length - 1));
+        } else if (e.key === 'ArrowUp') {
+          if (!open) return;
+          e.preventDefault();
+          setHighlight(Math.max(highlightIdx - 1, 0));
+        } else if (e.key === 'Enter') {
+          let target = null;
+          if (open && highlightIdx >= 0 && currentMatches[highlightIdx]) {
+            target = currentMatches[highlightIdx].querySelector('a');
+          } else if (currentMatches.length === 1) {
+            target = currentMatches[0].querySelector('a');
+          }
+          if (target) {
+            e.preventDefault();
+            window.location.href = target.href;
+          }
+        } else if (e.key === 'Escape') {
+          closeSuggestions();
+        }
+      });
+
+      // Click outside closes the dropdown.
+      document.addEventListener('click', (e) => {
+        if (!input.contains(e.target) && !suggestions.contains(e.target)) {
+          closeSuggestions();
+        }
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
+  })();
+</script>
