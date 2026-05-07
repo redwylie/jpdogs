@@ -1,9 +1,9 @@
 {{ define "main" }}
   {{ partial "title.html" . }}
 
-  {{ partial "dog-search.html" . }}
+  {{ partial "search.html" . }}
 
-
+  <div class="albums-filter-banner" hidden></div>
 
   <section class="galleries">
     {{ range (where .Pages "Params.private" "ne" true).ByTitle }}
@@ -15,12 +15,55 @@
     <h2>By Name:</h2>
     <br/>
     {{ range .Site.Taxonomies.tags }}
-    <li class="tag-list" data-album-count="{{ .Count }}">
-      <a href="{{ .Page.Permalink }}" class="tag">
-        {{ .Page.Title }}{{ if gt .Count 1 }} <span class="tag-count">({{ .Count }})</span>{{ end }}
+    {{ $count := .Count }}
+    {{ $href := "" }}
+    {{ if eq $count 1 }}
+      {{ $href = (index .Pages 0).RelPermalink }}
+    {{ else }}
+      {{ $href = printf "/albums/?q=%s" (urlquery (lower .Page.Title)) }}
+    {{ end }}
+    <li class="tag-list" data-album-count="{{ $count }}">
+      <a href="{{ $href }}" class="tag">
+        {{ .Page.Title }}{{ if gt $count 1 }} <span class="tag-count">({{ $count }})</span>{{ end }}
       </a>
     </li>
     {{ end }}
   </section>
+
+  <script>
+    (() => {
+      // Read ?q=<tag-name> and filter the album cards in .galleries to
+      // those whose data-tags contains the query. data-tags is pipe-
+      // delimited so multi-word tags ("Freddie, Freddy") stay one token.
+      const params = new URLSearchParams(location.search);
+      const q = (params.get('q') || '').trim().toLowerCase();
+      if (!q) return;
+
+      const cards = Array.from(document.querySelectorAll('.galleries .card'));
+      let visible = 0;
+      for (const card of cards) {
+        const tags = (card.dataset.tags || '')
+          .toLowerCase()
+          .split('|')
+          .map((t) => t.trim())
+          .filter(Boolean);
+        if (tags.includes(q)) {
+          visible++;
+        } else {
+          card.style.display = 'none';
+        }
+      }
+
+      // const banner = document.querySelector('.albums-filter-banner');
+      // if (banner) {
+      //   banner.hidden = false;
+      //   const label = visible === 1 ? 'album' : 'albums';
+      //   banner.innerHTML =
+      //     'Showing <strong>' + visible + ' ' + label + '</strong> for ' +
+      //     '<strong>' + q.replace(/[<>&]/g, '') + '</strong>. ' +
+      //     '<a href="/albums/">Show all</a>';
+      // }
+    })();
+  </script>
 
 {{ end }}

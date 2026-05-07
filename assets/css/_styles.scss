@@ -152,6 +152,12 @@ main > section {
   padding-left: 1.5rem;
 }
 
+section.home-galleries {
+  margin-top: 0rem;
+}
+
+
+
 section.galleries
 {
   display: grid;
@@ -335,7 +341,15 @@ section.social-icons {
 }
 
 section.featured {
-  margin: 3rem auto 4rem;
+  margin: 3rem auto 0rem;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+  max-width: 1280px;
+  color: var(--text-1-dark);
+}
+
+section.search {
+  margin: 1rem auto 0rem;
   padding-right: 1.5rem;
   padding-left: 1.5rem;
   max-width: 1280px;
@@ -387,7 +401,7 @@ section.featured {
 
 
 section.tags-home {
-
+  display: none;
   margin: 3rem auto 4rem;
   padding-right: 2rem;
   padding-left: 2rem;
