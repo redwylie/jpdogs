@@ -43,11 +43,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive
-          fetch-depth: 0
+          fetch-depth: 1
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
+      - name: Cache Hugo build resources
+        uses: actions/cache@v4
+        with:
+          path: |
+            resources/_gen
+            /home/runner/.cache/hugo_cache
+          key: hugo-cache-${{ runner.os }}-${{ github.sha }}
+          restore-keys: |
+            hugo-cache-${{ runner.os }}-
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
