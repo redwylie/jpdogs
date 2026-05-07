@@ -18,12 +18,14 @@ title = "JP Dogs"
     email = "mailto:jamaicaplaindogs@gmail.com"
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML"]
   page = ["HTML"]
   section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
 
 [imaging]
-  quality = 95
+  quality = 80
   [imaging.exif]
     disableDate = false
     disableLatLong = true
@@ -34,10 +36,6 @@ title = "JP Dogs"
     min = "0.123.0"
   [[module.imports]]
     path = "github.com/nicokaiser/hugo-theme-gallery/v4"
-
-[services]
-  [services.rss]
-    limit = 100
 
 [taxonomies]
   tag = "tags"
